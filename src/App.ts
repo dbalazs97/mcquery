@@ -1,5 +1,6 @@
 import * as bodyParser from 'body-parser';
 import * as express from 'express';
+import BlockRoutes from './routes/BlockRoutes';
 import ItemRoutes from './routes/ItemRoutes';
 
 export default class App {
@@ -12,6 +13,7 @@ export default class App {
 		this.port = port;
 		this.config();
 		new ItemRoutes().build('/items', this.app);
+		new BlockRoutes().build('/blocks', this.app);
 	}
 
 	public listen(callback?: () => void): void {
