@@ -5,7 +5,27 @@
 	],
 	"jsRules": {},
 	"rules": {
-		"no-console": false
+		"no-console": false,
+		"quotemark": [
+			true,
+			"single"
+		],
+		"indent": [
+			true,
+			"tabs",
+			4
+		],
+		"trailing-comma": [
+			true,
+			{
+				"multiline": "always",
+				"singleline": "never"
+			}
+		],
+		"prefer-const": true,
+		"triple-equals": true,
+		"no-require-imports": true,
+		"eofline": false
 	},
 	"rulesDirectory": []
 }

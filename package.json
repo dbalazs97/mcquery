@@ -6,7 +6,7 @@
 	"scripts": {
 		"test": "test",
 		"tsc": "tsc",
-		"start": "npm run tsc && nodemon ./dist/index.js"
+		"start": "nodemon ./dist/index.js"
 	},
 	"author": "Dóka Balázs",
 	"license": "GPL-3.0",

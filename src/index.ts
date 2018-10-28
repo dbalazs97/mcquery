@@ -1,2 +1,3 @@
-const str: string = "abcdef";
-console.log(str);
+import express, {Express} from 'express';
+
+const app: Express = express();
