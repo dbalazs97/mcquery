@@ -6,6 +6,8 @@
 	"jsRules": {},
 	"rules": {
 		"no-console": false,
+		"no-trailing-whitespace": false,
+		"max-classes-per-file": false,
 		"quotemark": [
 			true,
 			"single"
@@ -25,7 +27,8 @@
 		"prefer-const": true,
 		"triple-equals": true,
 		"no-require-imports": true,
-		"eofline": false
+		"eofline": false,
+		"comment-format": false
 	},
 	"rulesDirectory": []
 }
