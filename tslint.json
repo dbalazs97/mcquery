@@ -8,6 +8,12 @@
 		"no-console": false,
 		"no-trailing-whitespace": false,
 		"max-classes-per-file": false,
+		"max-line-length": false,
+		"max-file-line-count": false,
+		"arrow-parens": [
+			true,
+			"ban-single-arg-parens"
+		],
 		"quotemark": [
 			true,
 			"single"
