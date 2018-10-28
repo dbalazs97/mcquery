@@ -1,28 +1,28 @@
 import * as express from 'express';
-import {NextFunction, Request, Response} from 'express';
+import {Request, Response} from 'express';
 
 export default abstract class RESTRoute {
-	protected otherRoutes: [{ route: string, func: (req: Request, res: Response, next: NextFunction) => void }];
+	protected otherRoutes: [{ route: string, func: (req: Request, res: Response) => void }];
 
 	constructor() {
 		// @ts-ignore
 		this.otherRoutes = [];
 	}
 
-	public GET(req: Request, res: Response, next: NextFunction): void {
-		next();
+	public GET(req: Request, res: Response): void {
+		return;
 	}
 
-	public POST(req: Request, res: Response, next: NextFunction): void {
-		next();
+	public POST(req: Request, res: Response): void {
+		return;
 	}
 
-	public PUT(req: Request, res: Response, next: NextFunction): void {
-		next();
+	public PUT(req: Request, res: Response): void {
+		return;
 	}
 
-	public DELETE(req: Request, res: Response, next: NextFunction): void {
-		next();
+	public DELETE(req: Request, res: Response): void {
+		return;
 	}
 
 	public build(route: string, app: express.Application) {

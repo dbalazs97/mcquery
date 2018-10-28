@@ -9,13 +9,14 @@ interface IBlockType {
 }
 
 export class Block {
+	public static list: Block[] = [];
 
-	public static enumBlocks(): Block[] {
-		return MCData('1.13').blocksArray.map(block => Block.convertFromMC(block));
+	public static enumBlocks(): void {
+		this.list = MCData('1.13').blocksArray.map(block => Block.convertFromMC(block));
 	}
 
 	public static getBlockByID(id: number): Block {
-		return Block.enumBlocks().filter(block => block.type.id === id)[0];
+		return this.list.filter(value => value.type.id === id)[0];
 	}
 
 	public static convertFromMC(block: any): Block {

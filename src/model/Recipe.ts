@@ -3,28 +3,30 @@ import {Item} from './Item';
 
 export abstract class Recipe {
 	public static count: number = 0;
+	public static list: Recipe[] = [];
 
-	public static enumRecipes(): Recipe[] {
+	public static getRecipeByID(id: number): Recipe | undefined {
+		return this.list.filter(value => value.id === id)[0];
+	}
+
+	public static getRecipeByResult(resid: number): Recipe | undefined {
+		return this.list.filter(value => value.result.id === resid)[0];
+	}
+
+	public static enumRecipes(): void {
 		const recipes = MCData('1.13').recipes;
-		const returnValue: Recipe[] = [];
 
 		for (const recipe in recipes) {
 			if (recipes.hasOwnProperty(recipe)) {
 				// @ts-ignore Because recipes has a weird shape
 				const recipeElement = recipes[recipe][0];
 				if (recipeElement.hasOwnProperty('ingredients')) {
-					returnValue.push(new ShapelessRecipe(recipeElement.ingredients, recipeElement.result));
+					this.list.push(new ShapelessRecipe(recipeElement.ingredients, recipeElement.result));
 				} else {
-					returnValue.push(new ShapedRecipe(recipeElement.inShape, recipeElement.result));
+					this.list.push(new ShapedRecipe(recipeElement.inShape, recipeElement.result));
 				}
 			}
 		}
-
-		return returnValue;
-	}
-
-	public static getRecipeByID(id: number): Recipe {
-		return Recipe.enumRecipes().filter(recipe => recipe.id === id)[0];
 	}
 
 	public result: { id: number, item: number };

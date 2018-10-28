@@ -1,5 +1,8 @@
 import * as bodyParser from 'body-parser';
 import * as express from 'express';
+import {Block} from './model/Block';
+import {Item} from './model/Item';
+import {Recipe} from './model/Recipe';
 import BlockRoutes from './routes/BlockRoutes';
 import ItemRoutes from './routes/ItemRoutes';
 import RecipeRoutes from './routes/RecipeRoutes';
@@ -10,6 +13,10 @@ export default class App {
 	private readonly port: number;
 
 	constructor(port: number = 3000) {
+		Item.enumItems();
+		Block.enumBlocks();
+		Recipe.enumRecipes();
+
 		this.app = express.default();
 		this.port = port;
 		this.config();
