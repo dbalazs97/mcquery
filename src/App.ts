@@ -1,6 +1,10 @@
 import * as bodyParser from 'body-parser';
 import * as express from 'express';
+import * as fs from 'fs';
 import * as path from 'path';
+// @ts-ignore
+import pngCrop from 'png-crop';
+import {Stream} from 'stream';
 import {Block} from './model/Block';
 import {Item} from './model/Item';
 import {Recipe} from './model/Recipe';
@@ -26,8 +30,22 @@ export default class App {
 		new BlockRoutes().build('/blocks', this.app);
 		new RecipeRoutes().build('/recipes', this.app);
 
-		console.log(path.join(__dirname + '../static'));
-		this.app.use(express.static(path.join(__dirname, '../static')));
+		console.log();
+		this.app.get('/sprite/:tx/:ty', (req, res) => {
+			const cropOptions = {
+				height: 32,
+				left: req.params.tx * 32,
+				top: req.params.ty * 32,
+				width: 32,
+			};
+
+			pngCrop.cropToStream(fs.readFileSync(path.join(__dirname, '../static/sprite.png')), cropOptions, (e: any, s: Stream) => {
+				if (e) {
+					return res.send('Error');
+				}
+				s.pipe(res);
+			});
+		});
 	}
 
 	public listen(callback?: () => void): void {
