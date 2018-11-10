@@ -1,5 +1,6 @@
 import * as bodyParser from 'body-parser';
 import * as express from 'express';
+import * as path from 'path';
 import {Block} from './model/Block';
 import {Item} from './model/Item';
 import {Recipe} from './model/Recipe';
@@ -24,6 +25,9 @@ export default class App {
 		new ItemRoutes().build('/items', this.app);
 		new BlockRoutes().build('/blocks', this.app);
 		new RecipeRoutes().build('/recipes', this.app);
+
+		console.log(path.join(__dirname + '../static'));
+		this.app.use(express.static(path.join(__dirname, '../static')));
 	}
 
 	public listen(callback?: () => void): void {

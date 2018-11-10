@@ -6,7 +6,7 @@
 	"scripts": {
 		"postinstall": "npm run tsc",
 		"tsc": "tsc",
-		"start": "node ./dist/index.js"
+		"start": "tsc && node ./dist/index.js"
 	},
 	"author": "Dóka Balázs",
 	"license": "GPL-3.0",
