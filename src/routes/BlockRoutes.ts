@@ -8,7 +8,7 @@ export default class BlockRoutes extends RESTRoute {
 		super();
 		this.otherRoutes.push({
 			func: (req, res) => {
-				res.status(200).send(Block.getBlockByID(parseInt(req.params.blockid, 10)).type);
+				res.status(200).send(Block.getBlockByID(parseInt(req.params.blockid, 10)));
 			},
 			route: '/block/:blockid',
 		});

@@ -1,6 +1,7 @@
 import bs from 'binary-search';
 import MCData from 'minecraft-data';
 import sprites from '../sprite.json';
+import ErrorObject from './ErrorObject';
 
 export interface IItemType {
 	id: number;
@@ -24,8 +25,9 @@ export class Item {
 		});
 	}
 
-	public static getItemByID(id: number): Item {
-		return this.list.filter(value => value.type.id === id)[0];
+	public static getItemByID(id: number): IItemType | ErrorObject {
+		const item = this.list.filter(value => value.type.id === id)[0];
+		return (typeof item === 'undefined') ? new ErrorObject() : item.type;
 	}
 
 	public type: IItemType;

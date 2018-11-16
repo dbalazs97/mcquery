@@ -1,16 +1,19 @@
 import MCData from 'minecraft-data';
+import ErrorObject from './ErrorObject';
 import {Item} from './Item';
 
 export abstract class Recipe {
 	public static count: number = 0;
 	public static list: Recipe[] = [];
 
-	public static getRecipeByID(id: number): Recipe | undefined {
-		return this.list.filter(value => value.id === id)[0];
+	public static getRecipeByID(id: number): Recipe | ErrorObject {
+		const recipe = this.list.filter(value => value.id === id)[0];
+		return (typeof recipe === 'undefined') ? new ErrorObject() : recipe;
 	}
 
-	public static getRecipeByResult(resid: number): Recipe | undefined {
-		return this.list.filter(value => value.result.id === resid)[0];
+	public static getRecipeByResult(resid: number): Recipe | ErrorObject {
+		const recipe = this.list.filter(value => value.result.id === resid)[0];
+		return (typeof recipe === 'undefined') ? new ErrorObject() : recipe;
 	}
 
 	public static enumRecipes(): void {

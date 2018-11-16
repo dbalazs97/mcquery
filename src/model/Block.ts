@@ -1,4 +1,5 @@
 import MCData from 'minecraft-data';
+import ErrorObject from './ErrorObject';
 
 interface IBlockType {
 	id: number;
@@ -15,8 +16,9 @@ export class Block {
 		this.list = MCData('1.13').blocksArray.map(block => Block.convertFromMC(block));
 	}
 
-	public static getBlockByID(id: number): Block {
-		return this.list.filter(value => value.type.id === id)[0];
+	public static getBlockByID(id: number): IBlockType | ErrorObject {
+		const block = this.list.filter(value => value.type.id === id)[0];
+		return (typeof block === 'undefined') ? new ErrorObject() : block.type;
 	}
 
 	public static convertFromMC(block: any): Block {

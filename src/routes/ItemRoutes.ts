@@ -8,7 +8,7 @@ export default class ItemRoutes extends RESTRoute {
 		super();
 		this.otherRoutes.push({
 			func: (req, res) => {
-				res.status(200).send(Item.getItemByID(parseInt(req.params.itemid, 10)).type);
+				res.status(200).send(Item.getItemByID(parseInt(req.params.itemid, 10)));
 			},
 			route: '/item/:itemid',
 		});
