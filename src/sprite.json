@@ -1,1 +1,4717 @@
-[{"displayName":"???","top":0,"left":0},{"displayName":"Acacia Boat","top":42,"left":10},{"displayName":"Acacia Button","top":"51","left":22},{"displayName":"Acacia Door","top":29,"left":6},{"displayName":"Acacia Fence","top":26,"left":19},{"displayName":"Acacia Fence Gate","top":26,"left":20},{"displayName":"Acacia Leaves","top":31,"left":28},{"displayName":"Acacia Log","top":31,"left":30},{"displayName":"Acacia Planks","top":26,"left":21},{"displayName":"Acacia Pressure Plate","top":"51","left":27},{"displayName":"Acacia Sapling","top":31,"left":29},{"displayName":"Acacia Sign","top":"74","left":27},{"displayName":"Acacia Slab","top":26,"left":22},{"displayName":"Acacia Stairs","top":26,"left":23},{"displayName":"Acacia Trapdoor","top":"51","left":17},{"displayName":"Acacia Wood","top":"51","left":12},{"displayName":"Activator Rail","top":29,"left":7},{"displayName":"Adult Nether Warts","top":31,"left":14},{"displayName":"Air","top":73,"left":27},{"displayName":"Allium","top":31,"left":31},{"displayName":"Andesite","top":30,"left":9},{"displayName":"Anvil","top":38,"left":15},{"displayName":"Apple","top":25,"left":21},{"displayName":"Armor Stand","top":21,"left":1},{"displayName":"Arrow","top":"39","left":18},{"displayName":"Arrow of Decay","top":43,"left":31},{"displayName":"Arrow of Fire Resistance","top":"39","left":19},{"displayName":"Arrow of Harming","top":"39","left":20},{"displayName":"Arrow of Healing","top":"39","left":21},{"displayName":"Arrow of Invisibility","top":"39","left":22},{"displayName":"Arrow of Leaping","top":"39","left":23},{"displayName":"Arrow of Luck","top":42,"left":17},{"displayName":"Arrow of Night Vision","top":"39","left":24},{"displayName":"Arrow of Poison","top":"39","left":"25"},{"displayName":"Arrow of Regeneration","top":"39","left":26},{"displayName":"Arrow of Slow Falling","top":48,"left":25},{"displayName":"Arrow of Slow Falling","top":54,"left":5},{"displayName":"Arrow of Slowness","top":"39","left":27},{"displayName":"Arrow of Strength","top":"39","left":28},{"displayName":"Arrow of Swiftness","top":"39","left":29},{"displayName":"Arrow of Water Breathing","top":"39","left":"17"},{"displayName":"Arrow of Weakness","top":"39","left":30},{"displayName":"Awkward Lingering Potion","top":34,"left":8},{"displayName":"Awkward Potion","top":33,"left":26},{"displayName":"Awkward Splash Potion","top":34,"left":11},{"displayName":"Azure Bluet","top":32,"left":0},{"displayName":"Baked Potato","top":20,"left":12},{"displayName":"Bamboo","top":74,"left":4},{"displayName":"Barrier","top":38,"left":16},{"displayName":"Bat Spawn Egg","top":35,"left":21},{"displayName":"Beacon","top":38,"left":17},{"displayName":"Bedrock","top":30,"left":10},{"displayName":"Beetroot","top":33,"left":19},{"displayName":"Beetroot Seeds","top":33,"left":20},{"displayName":"Beetroot Soup","top":33,"left":21},{"displayName":"Birch Boat","top":42,"left":8},{"displayName":"Birch Button","top":"51","left":20},{"displayName":"Birch Door","top":29,"left":8},{"displayName":"Birch Fence","top":26,"left":24},{"displayName":"Birch Fence Gate","top":26,"left":25},{"displayName":"Birch Leaves","top":32,"left":1},{"displayName":"Birch Log","top":32,"left":3},{"displayName":"Birch Planks","top":26,"left":26},{"displayName":"Birch Pressure Plate","top":"51","left":25},{"displayName":"Birch Sapling","top":32,"left":2},{"displayName":"Birch Sign","top":"74","left":24},{"displayName":"Birch Slab","top":26,"left":27},{"displayName":"Birch Stairs","top":26,"left":28},{"displayName":"Birch Trapdoor","top":"51","left":15},{"displayName":"Birch Wood","top":"51","left":10},{"displayName":"Black Banner","top":21,"left":31},{"displayName":"Black Bed","top":49,"left":5},{"displayName":"Black Carpet","top":50,"left":20},{"displayName":"Black Concrete","top":"46","left":"2"},{"displayName":"Black Concrete Powder","top":"46","left":3},{"displayName":"Black Dye","top":74,"left":6},{"displayName":"Black Firework Star","top":25,"left":3},{"displayName":"Black Glazed Terracotta","top":"46","left":4},{"displayName":"Black Shield","top":"41","left":"18"},{"displayName":"Black Shulker Box","top":50,"left":2},{"displayName":"Black Stained Glass","top":22,"left":2},{"displayName":"Black Stained Glass Pane","top":22,"left":3},{"displayName":"Black Terracotta","top":22,"left":1},{"displayName":"Black Wool","top":47,"left":18},{"displayName":"Blaze Powder","top":20,"left":13},{"displayName":"Blaze Rod","top":20,"left":14},{"displayName":"Blaze Spawn Egg","top":35,"left":22},{"displayName":"Block of Coal","top":26,"left":29},{"displayName":"Block of Diamond","top":26,"left":30},{"displayName":"Block of Emerald","top":26,"left":31},{"displayName":"Block of Gold","top":27,"left":0},{"displayName":"Block of Iron","top":27,"left":1},{"displayName":"Block of Quartz","top":27,"left":2},{"displayName":"Block of Redstone","top":29,"left":9},{"displayName":"Blue Banner","top":22,"left":5},{"displayName":"Blue Bed","top":49,"left":6},{"displayName":"Blue Carpet","top":50,"left":21},{"displayName":"Blue Concrete","top":"46","left":5},{"displayName":"Blue Concrete Powder","top":"46","left":6},{"displayName":"Blue Dye","top":74,"left":7},{"displayName":"Blue Firework Star","top":25,"left":4},{"displayName":"Blue Glazed Terracotta","top":"46","left":7},{"displayName":"Blue Ice","top":54,"left":6},{"displayName":"Blue Orchid","top":32,"left":4},{"displayName":"Blue Shield","top":"41","left":19},{"displayName":"Blue Shulker Box","top":50,"left":3},{"displayName":"Blue Stained Glass","top":22,"left":8},{"displayName":"Blue Stained Glass Pane","top":22,"left":9},{"displayName":"Blue Terracotta","top":22,"left":7},{"displayName":"Blue Wool","top":47,"left":19},{"displayName":"Boat","top":39,"left":10},{"displayName":"Bone","top":34,"left":25},{"displayName":"Bone Block","top":"42","left":23},{"displayName":"Bone Meal","top":21,"left":15},{"displayName":"Book","top":34,"left":26},{"displayName":"Book and Quill","top":36,"left":17},{"displayName":"Bookshelf","top":27,"left":3},{"displayName":"Bottle o' Enchanting","top":34,"left":10},{"displayName":"Bow","top":"39","left":31},{"displayName":"Bowl","top":36,"left":18},{"displayName":"Brain Coral","top":"53","left":15},{"displayName":"Brain Coral Block","top":"53","left":10},{"displayName":"Bread","top":25,"left":22},{"displayName":"Brewing Stand","top":38,"left":19},{"displayName":"Brick","top":34,"left":27},{"displayName":"Brick Stairs","top":27,"left":4},{"displayName":"Bricks","top":27,"left":5},{"displayName":"Bricks Slab","top":27,"left":6},{"displayName":"Broken Elytra","top":31,"left":5},{"displayName":"Brown Banner","top":22,"left":11},{"displayName":"Brown Bed","top":49,"left":7},{"displayName":"Brown Carpet","top":50,"left":22},{"displayName":"Brown Concrete","top":"46","left":8},{"displayName":"Brown Concrete Powder","top":"46","left":9},{"displayName":"Brown Dye","top":74,"left":8},{"displayName":"Brown Firework Star","top":25,"left":5},{"displayName":"Brown Glazed Terracotta","top":"46","left":10},{"displayName":"Brown Mushroom","top":32,"left":5},{"displayName":"Brown Mushroom Block","top":32,"left":6},{"displayName":"Brown Shield","top":"41","left":20},{"displayName":"Brown Shulker Box","top":50,"left":4},{"displayName":"Brown Stained Glass","top":22,"left":14},{"displayName":"Brown Stained Glass Pane","top":22,"left":15},{"displayName":"Brown Terracotta","top":22,"left":13},{"displayName":"Brown Wool","top":47,"left":20},{"displayName":"Bubble Coral","top":"53","left":16},{"displayName":"Bubble Coral Block","top":"53","left":11},{"displayName":"Bucket","top":20,"left":27},{"displayName":"Bucket of Cod","top":52,"left":21},{"displayName":"Bucket of Pufferfish","top":52,"left":22},{"displayName":"Bucket of Salmon","top":52,"left":23},{"displayName":"Bucket of Tropical Fish","top":52,"left":20},{"displayName":"Cactus","top":32,"left":7},{"displayName":"Cactus Green","top":21,"left":16},{"displayName":"Cake","top":38,"left":20},{"displayName":"Carrot","top":20,"left":15},{"displayName":"Carrot on a Stick","top":36,"left":19},{"displayName":"Cat Spawn Egg","top":48,"left":26},{"displayName":"Cauldron","top":38,"left":21},{"displayName":"Cave Spider Spawn Egg","top":35,"left":23},{"displayName":"Chainmail Boots","top":0,"left":1},{"displayName":"Chainmail Chestplate","top":0,"left":2},{"displayName":"Chainmail Helmet","top":0,"left":3},{"displayName":"Chainmail Leggings","top":0,"left":4},{"displayName":"Charcoal","top":34,"left":28},{"displayName":"Chest","top":39,"left":7},{"displayName":"Chicken Spawn Egg","top":35,"left":24},{"displayName":"Chiseled Quartz Block","top":27,"left":7},{"displayName":"Chiseled Red Sandstone","top":27,"left":8},{"displayName":"Chiseled Sandstone","top":27,"left":9},{"displayName":"Chiseled Stone Bricks","top":30,"left":11},{"displayName":"Chorus Flower","top":32,"left":8},{"displayName":"Chorus Fruit","top":25,"left":23},{"displayName":"Chorus Plant","top":32,"left":9},{"displayName":"Clay","top":34,"left":29},{"displayName":"Clay (block)","top":30,"left":12},{"displayName":"Clock","top":36,"left":20},{"displayName":"Clownfish","top":25,"left":24},{"displayName":"Coal","top":34,"left":30},{"displayName":"Coal Ore","top":31,"left":21},{"displayName":"Coarse Dirt","top":30,"left":13},{"displayName":"Cobblestone","top":27,"left":10},{"displayName":"Cobblestone Slab","top":27,"left":11},{"displayName":"Cobblestone Stairs","top":27,"left":12},{"displayName":"Cobblestone Wall","top":27,"left":13},{"displayName":"Cobweb","top":30,"left":14},{"displayName":"Cocoa Beans","top":21,"left":17},{"displayName":"Cod Spawn Egg","top":53,"left":0},{"displayName":"Command Block","top":38,"left":23},{"displayName":"Compass","top":36,"left":21},{"displayName":"Cooked Chicken","top":25,"left":25},{"displayName":"Cooked Cod","top":52,"left":25},{"displayName":"Cooked Fish","top":25,"left":26},{"displayName":"Cooked Mutton","top":25,"left":27},{"displayName":"Cooked Porkchop","top":25,"left":28},{"displayName":"Cooked Rabbit","top":25,"left":29},{"displayName":"Cooked Salmon","top":25,"left":30},{"displayName":"Cooked Salmon","top":52,"left":26},{"displayName":"Cookie","top":25,"left":31},{"displayName":"Cornflower","top":74,"left":20},{"displayName":"Cow Spawn Egg","top":35,"left":25},{"displayName":"Cracked Stone Bricks","top":30,"left":15},{"displayName":"Crafting Table","top":38,"left":24},{"displayName":"Creeper Head","top":30,"left":3},{"displayName":"Creeper Spawn Egg","top":35,"left":26},{"displayName":"Crossbow","top":74,"left":13},{"displayName":"Cut Red Sandstone","top":28,"left":27},{"displayName":"Cut Sandstone","top":28,"left":28},{"displayName":"Cyan Banner","top":22,"left":17},{"displayName":"Cyan Bed","top":49,"left":8},{"displayName":"Cyan Carpet","top":50,"left":23},{"displayName":"Cyan Concrete","top":"46","left":11},{"displayName":"Cyan Concrete Powder","top":"46","left":12},{"displayName":"Cyan Dye","top":21,"left":18},{"displayName":"Cyan Firework Star","top":25,"left":6},{"displayName":"Cyan Flower","top":33,"left":22},{"displayName":"Cyan Glazed Terracotta","top":"46","left":13},{"displayName":"Cyan Glazed Terracotta","top":48,"left":3},{"displayName":"Cyan Shield","top":"41","left":21},{"displayName":"Cyan Shulker Box","top":50,"left":5},{"displayName":"Cyan Stained Glass","top":22,"left":20},{"displayName":"Cyan Stained Glass Pane","top":22,"left":21},{"displayName":"Cyan Terracotta","top":22,"left":19},{"displayName":"Cyan Wool","top":47,"left":21},{"displayName":"Damaged Bow","top":40,"left":0},{"displayName":"Damaged Carrot on a Stick","top":36,"left":22},{"displayName":"Damaged Chainmail Boots","top":0,"left":5},{"displayName":"Damaged Chainmail Chestplate","top":0,"left":6},{"displayName":"Damaged Chainmail Helmet","top":0,"left":7},{"displayName":"Damaged Chainmail Leggings","top":0,"left":8},{"displayName":"Damaged Diamond Axe","top":36,"left":23},{"displayName":"Damaged Diamond Boots","top":0,"left":9},{"displayName":"Damaged Diamond Chestplate","top":0,"left":10},{"displayName":"Damaged Diamond Helmet","top":0,"left":11},{"displayName":"Damaged Diamond Hoe","top":36,"left":24},{"displayName":"Damaged Diamond Leggings","top":0,"left":12},{"displayName":"Damaged Diamond Pickaxe","top":36,"left":25},{"displayName":"Damaged Diamond Shovel","top":36,"left":26},{"displayName":"Damaged Diamond Sword","top":40,"left":1},{"displayName":"Damaged Elytra","top":42,"left":13},{"displayName":"Damaged Fishing Rod","top":36,"left":27},{"displayName":"Damaged Flint and Steel","top":36,"left":28},{"displayName":"Damaged Golden Axe","top":36,"left":29},{"displayName":"Damaged Golden Boots","top":0,"left":13},{"displayName":"Damaged Golden Chestplate","top":0,"left":14},{"displayName":"Damaged Golden Helmet","top":0,"left":15},{"displayName":"Damaged Golden Hoe","top":36,"left":30},{"displayName":"Damaged Golden Leggings","top":0,"left":16},{"displayName":"Damaged Golden Pickaxe","top":36,"left":31},{"displayName":"Damaged Golden Shovel","top":37,"left":0},{"displayName":"Damaged Golden Sword","top":40,"left":2},{"displayName":"Damaged Iron Axe","top":37,"left":1},{"displayName":"Damaged Iron Boots","top":0,"left":17},{"displayName":"Damaged Iron Chestplate","top":0,"left":18},{"displayName":"Damaged Iron Helmet","top":0,"left":19},{"displayName":"Damaged Iron Hoe","top":37,"left":2},{"displayName":"Damaged Iron Leggings","top":0,"left":20},{"displayName":"Damaged Iron Pickaxe","top":37,"left":3},{"displayName":"Damaged Iron Shovel","top":37,"left":4},{"displayName":"Damaged Iron Sword","top":40,"left":3},{"displayName":"Damaged Leather Boots","top":0,"left":21},{"displayName":"Damaged Leather Cap","top":0,"left":22},{"displayName":"Damaged Leather Pants","top":0,"left":23},{"displayName":"Damaged Leather Tunic","top":0,"left":24},{"displayName":"Damaged Shears","top":37,"left":5},{"displayName":"Damaged Shears","top":"42","left":"19"},{"displayName":"Damaged Stone Axe","top":37,"left":6},{"displayName":"Damaged Stone Hoe","top":37,"left":7},{"displayName":"Damaged Stone Pickaxe","top":37,"left":8},{"displayName":"Damaged Stone Shovel","top":37,"left":9},{"displayName":"Damaged Stone Sword","top":40,"left":4},{"displayName":"Damaged Wooden Axe","top":37,"left":10},{"displayName":"Damaged Wooden Hoe","top":37,"left":11},{"displayName":"Damaged Wooden Pickaxe","top":37,"left":12},{"displayName":"Damaged Wooden Shovel","top":37,"left":13},{"displayName":"Damaged Wooden Sword","top":40,"left":5},{"displayName":"Dandelion","top":32,"left":10},{"displayName":"Dark Oak Boat","top":42,"left":11},{"displayName":"Dark Oak Button","top":"51","left":23},{"displayName":"Dark Oak Door","top":29,"left":10},{"displayName":"Dark Oak Fence","top":27,"left":14},{"displayName":"Dark Oak Fence Gate","top":27,"left":15},{"displayName":"Dark Oak Leaves","top":32,"left":11},{"displayName":"Dark Oak Log","top":32,"left":13},{"displayName":"Dark Oak Planks","top":27,"left":16},{"displayName":"Dark Oak Pressure Plate","top":"51","left":28},{"displayName":"Dark Oak Sapling","top":32,"left":12},{"displayName":"Dark Oak Sign","top":"74","left":28},{"displayName":"Dark Oak Slab","top":27,"left":17},{"displayName":"Dark Oak Stairs","top":27,"left":18},{"displayName":"Dark Oak Trapdoor","top":"51","left":18},{"displayName":"Dark Oak Wood","top":"51","left":13},{"displayName":"Dark Prismarine","top":30,"left":16},{"displayName":"Dark Prismarine Slab","top":52,"left":0},{"displayName":"Dark Prismarine Stairs","top":"51","left":29},{"displayName":"Daylight Sensor","top":38,"left":25},{"displayName":"Dead Brain Coral Block","top":"53","left":21},{"displayName":"Dead Bubble Coral Block","top":"53","left":22},{"displayName":"Dead Bush","top":32,"left":14},{"displayName":"Dead Fire Coral Block","top":"53","left":23},{"displayName":"Dead Horn Coral Block","top":"53","left":24},{"displayName":"Dead Tube Coral Block","top":"53","left":20},{"displayName":"Detector Rail","top":29,"left":11},{"displayName":"Diamond","top":34,"left":31},{"displayName":"Diamond Axe","top":37,"left":14},{"displayName":"Diamond Boots","top":0,"left":25},{"displayName":"Diamond Chestplate","top":0,"left":26},{"displayName":"Diamond Helmet","top":0,"left":27},{"displayName":"Diamond Hoe","top":37,"left":15},{"displayName":"Diamond Horse Armor","top":0,"left":28},{"displayName":"Diamond Leggings","top":0,"left":29},{"displayName":"Diamond Ore","top":31,"left":22},{"displayName":"Diamond Pickaxe","top":37,"left":16},{"displayName":"Diamond Shovel","top":37,"left":17},{"displayName":"Diamond Sword","top":40,"left":6},{"displayName":"Diorite","top":30,"left":17},{"displayName":"Dirt","top":30,"left":18},{"displayName":"Dispenser","top":38,"left":26},{"displayName":"Donkey Spawn Egg","top":"42","left":26},{"displayName":"Dragon Egg","top":24,"left":31},{"displayName":"Dragon Head","top":30,"left":4},{"displayName":"Dragon's Breath","top":33,"left":27},{"displayName":"Dried Kelp","top":52,"left":17},{"displayName":"Dried Kelp Block","top":52,"left":4},{"displayName":"Dropper","top":38,"left":27},{"displayName":"Drowned Spawn Egg","top":"53","left":30},{"displayName":"Egg","top":26,"left":0},{"displayName":"Elder Guardian Spawn Egg","top":"42","left":27},{"displayName":"Elytra","top":42,"left":12},{"displayName":"Emerald","top":35,"left":0},{"displayName":"Emerald Ore","top":31,"left":23},{"displayName":"Empty Map","top":37,"left":18},{"displayName":"Enchanted Book","top":37,"left":19},{"displayName":"Enchantment Table","top":38,"left":28},{"displayName":"End Crystal","top":42,"left":14},{"displayName":"End Portal","top":31,"left":17},{"displayName":"End Portal Frame","top":25,"left":0},{"displayName":"End Rod","top":25,"left":1},{"displayName":"End Stone","top":25,"left":2},{"displayName":"End Stone Bricks","top":27,"left":20},{"displayName":"Ender Chest","top":38,"left":29},{"displayName":"Ender Pearl","top":37,"left":20},{"displayName":"Enderman Spawn Egg","top":35,"left":27},{"displayName":"Endermite Spawn Egg","top":35,"left":28},{"displayName":"Evoker Spawn Egg","top":44,"left":2},{"displayName":"Eye of Ender","top":35,"left":1},{"displayName":"Farmland","top":27,"left":21},{"displayName":"Feather","top":35,"left":2},{"displayName":"Fermented Spider Eye","top":20,"left":16},{"displayName":"Fern","top":32,"left":16},{"displayName":"Fire Charge","top":37,"left":21},{"displayName":"Fire Coral","top":"53","left":17},{"displayName":"Fire Coral Block","top":"53","left":12},{"displayName":"Firework Rocket","top":25,"left":7},{"displayName":"Fishing Rod","top":37,"left":22},{"displayName":"Flint","top":35,"left":3},{"displayName":"Flint and Steel","top":37,"left":23},{"displayName":"Flower Pot","top":21,"left":6},{"displayName":"Furnace","top":38,"left":30},{"displayName":"Ghast Spawn Egg","top":35,"left":29},{"displayName":"Ghast Tear","top":20,"left":17},{"displayName":"Glass","top":27,"left":24},{"displayName":"Glass Bottle","top":37,"left":24},{"displayName":"Glass Pane","top":27,"left":25},{"displayName":"Glistering Melon Slice","top":20,"left":18},{"displayName":"Glowing Obsidian","top":33,"left":23},{"displayName":"Glowstone","top":31,"left":9},{"displayName":"Glowstone Dust","top":35,"left":4},{"displayName":"Gold Ingot","top":35,"left":5},{"displayName":"Gold Nugget","top":20,"left":19},{"displayName":"Gold Ore","top":31,"left":24},{"displayName":"Golden Apple","top":26,"left":1},{"displayName":"Golden Axe","top":37,"left":25},{"displayName":"Golden Boots","top":0,"left":30},{"displayName":"Golden Carrot","top":20,"left":20},{"displayName":"Golden Chestplate","top":0,"left":31},{"displayName":"Golden Helmet","top":1,"left":0},{"displayName":"Golden Hoe","top":37,"left":26},{"displayName":"Golden Horse Armor","top":1,"left":1},{"displayName":"Golden Leggings","top":1,"left":2},{"displayName":"Golden Pickaxe","top":37,"left":27},{"displayName":"Golden Shovel","top":37,"left":28},{"displayName":"Golden Sword","top":40,"left":7},{"displayName":"Granite","top":30,"left":19},{"displayName":"Grass","top":32,"left":17},{"displayName":"Grass Block","top":30,"left":20},{"displayName":"Grass Path","top":42,"left":3},{"displayName":"Gravel","top":30,"left":21},{"displayName":"Gray Banner","top":22,"left":23},{"displayName":"Gray Bed","top":49,"left":9},{"displayName":"Gray Carpet","top":50,"left":24},{"displayName":"Gray Concrete","top":"46","left":14},{"displayName":"Gray Concrete Powder","top":"46","left":15},{"displayName":"Gray Dye","top":21,"left":20},{"displayName":"Gray Firework Star","top":25,"left":8},{"displayName":"Gray Firework Star","top":25,"left":9},{"displayName":"Gray Firework Star","top":25,"left":10},{"displayName":"Gray Glazed Terracotta","top":"46","left":16},{"displayName":"Gray Shield","top":"41","left":22},{"displayName":"Gray Shulker Box","top":50,"left":6},{"displayName":"Gray Stained Glass","top":22,"left":26},{"displayName":"Gray Stained Glass Pane","top":22,"left":27},{"displayName":"Gray Terracotta","top":22,"left":25},{"displayName":"Gray Wool","top":47,"left":22},{"displayName":"Green Banner","top":22,"left":29},{"displayName":"Green Bed","top":49,"left":10},{"displayName":"Green Carpet","top":50,"left":25},{"displayName":"Green Concrete","top":"46","left":17},{"displayName":"Green Concrete Powder","top":"46","left":18},{"displayName":"Green Glazed Terracotta","top":"46","left":19},{"displayName":"Green Shield","top":"41","left":23},{"displayName":"Green Shulker Box","top":50,"left":7},{"displayName":"Green Stained Glass","top":23,"left":0},{"displayName":"Green Stained Glass Pane","top":23,"left":1},{"displayName":"Green Terracotta","top":22,"left":31},{"displayName":"Green Wool","top":47,"left":23},{"displayName":"Guardian Spawn Egg","top":35,"left":30},{"displayName":"Gunpowder","top":35,"left":6},{"displayName":"Hay Bale","top":27,"left":26},{"displayName":"Head","top":30,"left":5},{"displayName":"Heart of the Sea","top":"54","left":13},{"displayName":"Heavy Weighted Pressure Plate","top":29,"left":31},{"displayName":"Hopper","top":38,"left":31},{"displayName":"Horn Coral","top":"53","left":18},{"displayName":"Horn Coral Block","top":"53","left":13},{"displayName":"Horse Spawn Egg","top":35,"left":31},{"displayName":"Husk Spawn Egg","top":"42","left":28},{"displayName":"Ice","top":30,"left":23},{"displayName":"Ink Sac","top":21,"left":21},{"displayName":"Inverted Daylight Detector","top":39,"left":0},{"displayName":"Iron Axe","top":37,"left":29},{"displayName":"Iron Bars","top":27,"left":27},{"displayName":"Iron Boots","top":1,"left":3},{"displayName":"Iron Chestplate","top":1,"left":4},{"displayName":"Iron Door","top":29,"left":12},{"displayName":"Iron Helmet","top":1,"left":5},{"displayName":"Iron Hoe","top":37,"left":30},{"displayName":"Iron Horse Armor","top":1,"left":6},{"displayName":"Iron Ingot","top":35,"left":7},{"displayName":"Iron Leggings","top":1,"left":7},{"displayName":"Iron Nugget","top":44,"left":28},{"displayName":"Iron Ore","top":31,"left":25},{"displayName":"Iron Pickaxe","top":37,"left":31},{"displayName":"Iron Shovel","top":38,"left":0},{"displayName":"Iron Sword","top":40,"left":8},{"displayName":"Iron Trapdoor","top":29,"left":13},{"displayName":"Item Frame","top":21,"left":7},{"displayName":"Jack o'Lantern","top":27,"left":28},{"displayName":"Jukebox","top":39,"left":1},{"displayName":"Jungle Boat","top":42,"left":9},{"displayName":"Jungle Button","top":"51","left":21},{"displayName":"Jungle Door","top":29,"left":14},{"displayName":"Jungle Fence","top":27,"left":29},{"displayName":"Jungle Fence Gate","top":27,"left":30},{"displayName":"Jungle Leaves","top":32,"left":18},{"displayName":"Jungle Log","top":32,"left":20},{"displayName":"Jungle Planks","top":27,"left":31},{"displayName":"Jungle Pressure Plate","top":"51","left":26},{"displayName":"Jungle Sapling","top":32,"left":19},{"displayName":"Jungle Sign","top":"74","left":26},{"displayName":"Jungle Slab","top":28,"left":0},{"displayName":"Jungle Stairs","top":28,"left":1},{"displayName":"Jungle Trapdoor","top":"51","left":16},{"displayName":"Jungle Wood","top":"51","left":11},{"displayName":"Kelp","top":52,"left":18},{"displayName":"Ladder","top":28,"left":2},{"displayName":"Lapis Lazuli","top":21,"left":22},{"displayName":"Lapis Lazuli Block","top":28,"left":3},{"displayName":"Lapis Lazuli Ore","top":31,"left":26},{"displayName":"Large Fern","top":32,"left":21},{"displayName":"Lava Bucket","top":20,"left":28},{"displayName":"Lead","top":38,"left":1},{"displayName":"Leather","top":35,"left":8},{"displayName":"Leather Boots","top":1,"left":8},{"displayName":"Leather Cap","top":1,"left":9},{"displayName":"Leather Horse Armor","top":43,"left":5},{"displayName":"Leather Pants","top":1,"left":10},{"displayName":"Leather Tunic","top":1,"left":11},{"displayName":"Lever","top":29,"left":15},{"displayName":"Light Blue Banner","top":23,"left":3},{"displayName":"Light Blue Bed","top":49,"left":11},{"displayName":"Light Blue Carpet","top":50,"left":26},{"displayName":"Light Blue Concrete","top":"46","left":20},{"displayName":"Light Blue Concrete Powder","top":"46","left":21},{"displayName":"Light Blue Dye","top":21,"left":23},{"displayName":"Light Blue Firework Star","top":25,"left":11},{"displayName":"Light Blue Glazed Terracotta","top":"46","left":22},{"displayName":"Light Blue Shield","top":"41","left":24},{"displayName":"Light Blue Shulker Box","top":50,"left":8},{"displayName":"Light Blue Stained Glass","top":23,"left":6},{"displayName":"Light Blue Stained Glass Pane","top":23,"left":7},{"displayName":"Light Blue Terracotta","top":23,"left":5},{"displayName":"Light Blue Wool","top":47,"left":24},{"displayName":"Light Gray Banner","top":23,"left":9},{"displayName":"Light Gray Bed","top":49,"left":12},{"displayName":"Light Gray Carpet","top":50,"left":27},{"displayName":"Light Gray Concrete","top":"46","left":23},{"displayName":"Light Gray Concrete Powder","top":"46","left":24},{"displayName":"Light Gray Dye","top":21,"left":24},{"displayName":"Light Gray Firework Star","top":25,"left":12},{"displayName":"Light Gray Glazed Terracotta","top":"46","left":25},{"displayName":"Light Gray Shield","top":"41","left":25},{"displayName":"Light Gray Shulker Box","top":50,"left":9},{"displayName":"Light Gray Stained Glass","top":23,"left":12},{"displayName":"Light Gray Stained Glass Pane","top":23,"left":13},{"displayName":"Light Gray Stained Glass Pane","top":23,"left":14},{"displayName":"Light Gray Terracotta","top":23,"left":11},{"displayName":"Light Gray Wool","top":47,"left":25},{"displayName":"Light Weighted Pressure Plate","top":30,"left":0},{"displayName":"Lilac","top":32,"left":22},{"displayName":"Lily of the Valley","top":74,"left":21},{"displayName":"Lily Pad","top":32,"left":23},{"displayName":"Lime Banner","top":23,"left":15},{"displayName":"Lime Bed","top":49,"left":13},{"displayName":"Lime Carpet","top":50,"left":28},{"displayName":"Lime Concrete","top":"46","left":26},{"displayName":"Lime Concrete Powder","top":"46","left":27},{"displayName":"Lime Dye","top":21,"left":25},{"displayName":"Lime Firework Star","top":25,"left":13},{"displayName":"Lime Glazed Terracotta","top":"46","left":28},{"displayName":"Lime Shield","top":"41","left":26},{"displayName":"Lime Shulker Box","top":50,"left":10},{"displayName":"Lime Stained Glass","top":23,"left":18},{"displayName":"Lime Stained Glass Pane","top":23,"left":19},{"displayName":"Lime Terracotta","top":23,"left":17},{"displayName":"Lime Wool","top":47,"left":26},{"displayName":"Lingering Potion of Decay","top":43,"left":29},{"displayName":"Lingering Potion of Fire Resistance","top":34,"left":9},{"displayName":"Lingering Potion of Harming","top":41,"left":6},{"displayName":"Lingering Potion of Healing","top":41,"left":7},{"displayName":"Lingering Potion of Invisibility","top":41,"left":8},{"displayName":"Lingering Potion of Leaping","top":41,"left":9},{"displayName":"Lingering Potion of Luck","top":42,"left":18},{"displayName":"Lingering Potion of Night Vision","top":41,"left":10},{"displayName":"Lingering Potion of Poison","top":41,"left":11},{"displayName":"Lingering Potion of Regeneration","top":41,"left":12},{"displayName":"Lingering Potion of Slow Falling","top":54,"left":4},{"displayName":"Lingering Potion of Slowness","top":41,"left":13},{"displayName":"Lingering Potion of Strength","top":41,"left":14},{"displayName":"Lingering Potion of Swiftness","top":41,"left":15},{"displayName":"Lingering Potion of the Turtle Master","top":52,"left":14},{"displayName":"Lingering Potion of Water Breathing","top":41,"left":16},{"displayName":"Lingering Potion of Weakness","top":41,"left":17},{"displayName":"Llama Spawn Egg","top":44,"left":3},{"displayName":"Magenta Banner","top":23,"left":21},{"displayName":"Magenta Bed","top":49,"left":14},{"displayName":"Magenta Carpet","top":50,"left":29},{"displayName":"Magenta Concrete","top":"46","left":29},{"displayName":"Magenta Concrete Powder","top":"46","left":30},{"displayName":"Magenta Dye","top":21,"left":26},{"displayName":"Magenta Firework Star","top":25,"left":14},{"displayName":"Magenta Glazed Terracotta","top":48,"left":4},{"displayName":"Magenta Shield","top":"41","left":27},{"displayName":"Magenta Shulker Box","top":50,"left":11},{"displayName":"Magenta Stained Glass","top":23,"left":24},{"displayName":"Magenta Stained Glass Pane","top":23,"left":25},{"displayName":"Magenta Terracotta","top":23,"left":23},{"displayName":"Magenta Wool","top":47,"left":27},{"displayName":"Magma Cream","top":20,"left":21},{"displayName":"Magma Cube Spawn Egg","top":36,"left":0},{"displayName":"Melon","top":32,"left":24},{"displayName":"Melon Seeds","top":32,"left":25},{"displayName":"Melon Slice","top":26,"left":2},{"displayName":"Milk Bucket","top":20,"left":29},{"displayName":"Minecart","top":39,"left":11},{"displayName":"Minecart with Chest","top":39,"left":12},{"displayName":"Minecart with Command Block","top":39,"left":13},{"displayName":"Minecart with Furnace","top":39,"left":14},{"displayName":"Minecart with Hopper","top":39,"left":15},{"displayName":"Minecart with TNT","top":39,"left":16},{"displayName":"Missing Texture","top":"40","left":25},{"displayName":"Monster Spawner","top":30,"left":24},{"displayName":"Mooshroom Spawn Egg","top":36,"left":1},{"displayName":"Mossy Cobblestone","top":30,"left":25},{"displayName":"Mossy Cobblestone Wall","top":28,"left":4},{"displayName":"Mossy Stone Bricks","top":30,"left":26},{"displayName":"Mule Spawn Egg","top":"42","left":29},{"displayName":"Mushroom Stem","top":32,"left":26},{"displayName":"Mushroom Stew","top":26,"left":3},{"displayName":"Music Disc 11","top":20,"left":31},{"displayName":"Music Disc 13","top":21,"left":0},{"displayName":"Music Disc Cat","top":21,"left":3},{"displayName":"Music Disc Chirp","top":21,"left":4},{"displayName":"Music Disc Far","top":21,"left":5},{"displayName":"Music Disc Mall","top":21,"left":8},{"displayName":"Music Disc Mellohi","top":21,"left":9},{"displayName":"Music Disc Stal","top":21,"left":11},{"displayName":"Music Disc Strad","top":21,"left":12},{"displayName":"Music Disc Wait","top":21,"left":13},{"displayName":"Music Disc Ward","top":21,"left":14},{"displayName":"Mycelium","top":30,"left":27},{"displayName":"Name Tag","top":38,"left":3},{"displayName":"Nautilus Shell","top":"54","left":14},{"displayName":"Nether Brick","top":35,"left":9},{"displayName":"Nether Brick Fence","top":31,"left":11},{"displayName":"Nether Brick Slab","top":28,"left":5},{"displayName":"Nether Brick Stairs","top":31,"left":12},{"displayName":"Nether Bricks","top":31,"left":10},{"displayName":"Nether Portal","top":31,"left":18},{"displayName":"Nether Quartz","top":35,"left":10},{"displayName":"Nether Quartz Ore","top":31,"left":13},{"displayName":"Nether Star","top":35,"left":11},{"displayName":"Nether Wart","top":20,"left":22},{"displayName":"Nether Wart Block","top":"42","left":21},{"displayName":"Netherrack","top":31,"left":15},{"displayName":"Note Block","top":39,"left":3},{"displayName":"Oak Boat","top":42,"left":6},{"displayName":"Oak Button","top":30,"left":1},{"displayName":"Oak Door","top":29,"left":16},{"displayName":"Oak Fence","top":27,"left":22},{"displayName":"Oak Fence Gate","top":27,"left":23},{"displayName":"Oak Leaves","top":32,"left":27},{"displayName":"Oak Log","top":32,"left":29},{"displayName":"Oak Planks","top":28,"left":6},{"displayName":"Oak Pressure Plate","top":30,"left":2},{"displayName":"Oak Sapling","top":32,"left":28},{"displayName":"Oak Sign","top":"74","left":23},{"displayName":"Oak Slab","top":28,"left":7},{"displayName":"Oak Stairs","top":28,"left":8},{"displayName":"Oak Trapdoor","top":29,"left":29},{"displayName":"Oak Wood","top":"51","left":8},{"displayName":"Observer","top":44,"left":25},{"displayName":"Obsidian","top":30,"left":28},{"displayName":"Ocean Explorer Map","top":44,"left":23},{"displayName":"Ocelot Spawn Egg","top":36,"left":2},{"displayName":"Orange Banner","top":23,"left":27},{"displayName":"Orange Bed","top":49,"left":15},{"displayName":"Orange Carpet","top":50,"left":30},{"displayName":"Orange Concrete","top":47,"left":0},{"displayName":"Orange Concrete Powder","top":47,"left":1},{"displayName":"Orange Dye","top":21,"left":27},{"displayName":"Orange Firework Star","top":25,"left":15},{"displayName":"Orange Glazed Terracotta","top":48,"left":5},{"displayName":"Orange Shield","top":"41","left":28},{"displayName":"Orange Shulker Box","top":50,"left":12},{"displayName":"Orange Stained Glass","top":23,"left":30},{"displayName":"Orange Stained Glass Pane","top":23,"left":31},{"displayName":"Orange Terracotta","top":23,"left":29},{"displayName":"Orange Tulip","top":32,"left":30},{"displayName":"Orange Wool","top":47,"left":28},{"displayName":"Oxeye Daisy","top":32,"left":31},{"displayName":"Packed Ice","top":30,"left":29},{"displayName":"Painting","top":21,"left":10},{"displayName":"Panda Spawn Egg","top":74,"left":5},{"displayName":"Paper","top":35,"left":12},{"displayName":"Parrot Spawn Egg","top":48,"left":7},{"displayName":"Peony","top":33,"left":0},{"displayName":"Phantom Membrane","top":54,"left":1},{"displayName":"Phantom Spawn Egg","top":"53","left":31},{"displayName":"Pig Spawn Egg","top":36,"left":3},{"displayName":"Pink Banner","top":24,"left":1},{"displayName":"Pink Bed","top":49,"left":16},{"displayName":"Pink Carpet","top":50,"left":31},{"displayName":"Pink Concrete","top":47,"left":3},{"displayName":"Pink Concrete Powder","top":47,"left":4},{"displayName":"Pink Dye","top":21,"left":28},{"displayName":"Pink Firework Star","top":25,"left":16},{"displayName":"Pink Glazed Terracotta","top":47,"left":5},{"displayName":"Pink Shield","top":"41","left":29},{"displayName":"Pink Shulker Box","top":50,"left":13},{"displayName":"Pink Stained Glass","top":24,"left":4},{"displayName":"Pink Stained Glass Pane","top":24,"left":5},{"displayName":"Pink Terracotta","top":24,"left":3},{"displayName":"Pink Tulip","top":33,"left":1},{"displayName":"Pink Wool","top":47,"left":29},{"displayName":"Piston","top":29,"left":17},{"displayName":"Placeholder Texture","top":29,"left":18},{"displayName":"Player Head","top":44,"left":29},{"displayName":"Podzol","top":30,"left":30},{"displayName":"Poisonous Potato","top":20,"left":23},{"displayName":"Polar Bear Spawn Egg","top":"42","left":30},{"displayName":"Polished Andesite","top":28,"left":10},{"displayName":"Polished Diorite","top":28,"left":11},{"displayName":"Polished Granite","top":28,"left":12},{"displayName":"Popped Chorus Fruit","top":35,"left":13},{"displayName":"Poppy","top":33,"left":2},{"displayName":"Potato","top":20,"left":24},{"displayName":"Potion of Decay","top":43,"left":25},{"displayName":"Potion of Fire Resistance","top":33,"left":28},{"displayName":"Potion of Harming","top":33,"left":29},{"displayName":"Potion of Healing","top":33,"left":30},{"displayName":"Potion of Invisibility","top":33,"left":31},{"displayName":"Potion of Leaping","top":34,"left":0},{"displayName":"Potion of Luck","top":42,"left":15},{"displayName":"Potion of Night Vision","top":34,"left":1},{"displayName":"Potion of Poison","top":34,"left":2},{"displayName":"Potion of Regeneration","top":34,"left":3},{"displayName":"Potion of Slow Falling","top":54,"left":2},{"displayName":"Potion of Slowness","top":34,"left":4},{"displayName":"Potion of Strength","top":34,"left":5},{"displayName":"Potion of Swiftness","top":34,"left":6},{"displayName":"Potion of the Turtle Master","top":52,"left":12},{"displayName":"Potion of Weakness","top":34,"left":7},{"displayName":"Powered Rail","top":29,"left":19},{"displayName":"Prismarine Brick Slab","top":52,"left":1},{"displayName":"Prismarine Brick Stairs","top":"51","left":30},{"displayName":"Prismarine Bricks","top":31,"left":0},{"displayName":"Prismarine Crystals","top":35,"left":14},{"displayName":"Prismarine Shard","top":35,"left":15},{"displayName":"Prismarine Slab","top":52,"left":2},{"displayName":"Prismarine Stairs","top":"51","left":31},{"displayName":"Pufferfish","top":52,"left":27},{"displayName":"Pufferfish Spawn Egg","top":53,"left":1},{"displayName":"Pumpkin","top":52,"left":11},{"displayName":"Pumpkin Pie","top":26,"left":5},{"displayName":"Pumpkin Seeds","top":33,"left":4},{"displayName":"Purple Banner","top":24,"left":7},{"displayName":"Purple Bed","top":49,"left":17},{"displayName":"Purple Carpet","top":51,"left":0},{"displayName":"Purple Concrete","top":47,"left":6},{"displayName":"Purple Concrete Powder","top":47,"left":7},{"displayName":"Purple Dye","top":21,"left":29},{"displayName":"Purple Firework Star","top":25,"left":17},{"displayName":"Purple Glazed Terracotta","top":47,"left":8},{"displayName":"Purple Shield","top":"41","left":30},{"displayName":"Purple Shulker Box","top":44,"left":19},{"displayName":"Purple Stained Glass","top":24,"left":10},{"displayName":"Purple Stained Glass Pane","top":24,"left":11},{"displayName":"Purple Terracotta","top":24,"left":9},{"displayName":"Purple Wool","top":47,"left":30},{"displayName":"Purpur Block","top":28,"left":13},{"displayName":"Purpur Pillar","top":28,"left":14},{"displayName":"Purpur Slab","top":28,"left":15},{"displayName":"Purpur Stairs","top":28,"left":16},{"displayName":"Quartz Pillar","top":28,"left":9},{"displayName":"Quartz Slab","top":28,"left":17},{"displayName":"Quartz Stairs","top":28,"left":18},{"displayName":"Rabbit Hide","top":35,"left":16},{"displayName":"Rabbit Spawn Egg","top":36,"left":4},{"displayName":"Rabbit Stew","top":26,"left":6},{"displayName":"Rabbit's Foot","top":20,"left":25},{"displayName":"Rail","top":29,"left":20},{"displayName":"Raw Beef","top":26,"left":7},{"displayName":"Raw Chicken","top":26,"left":8},{"displayName":"Raw Cod","top":52,"left":28},{"displayName":"Raw Fish","top":26,"left":9},{"displayName":"Raw Mutton","top":26,"left":10},{"displayName":"Raw Porkchop","top":26,"left":11},{"displayName":"Raw Rabbit","top":26,"left":12},{"displayName":"Raw Salmon","top":52,"left":29},{"displayName":"Red Banner","top":24,"left":13},{"displayName":"Red Bed","top":49,"left":18},{"displayName":"Red Carpet","top":51,"left":1},{"displayName":"Red Concrete","top":47,"left":9},{"displayName":"Red Concrete Powder","top":47,"left":10},{"displayName":"Red Dye","top":21,"left":30},{"displayName":"Red Firework Star","top":25,"left":18},{"displayName":"Red Glazed Terracotta","top":47,"left":11},{"displayName":"Red Mushroom","top":33,"left":5},{"displayName":"Red Mushroom Block","top":33,"left":6},{"displayName":"Red Nether Bricks","top":"42","left":22},{"displayName":"Red Sand","top":31,"left":1},{"displayName":"Red Sandstone","top":31,"left":2},{"displayName":"Red Sandstone Slab","top":28,"left":19},{"displayName":"Red Sandstone Stairs","top":28,"left":20},{"displayName":"Red Shield","top":"41","left":31},{"displayName":"Red Shulker Box","top":50,"left":15},{"displayName":"Red Stained Glass","top":24,"left":16},{"displayName":"Red Stained Glass Pane","top":24,"left":17},{"displayName":"Red Terracotta","top":24,"left":15},{"displayName":"Red Tulip","top":33,"left":7},{"displayName":"Red Wool","top":47,"left":31},{"displayName":"Redstone Comparator","top":29,"left":21},{"displayName":"Redstone Dust","top":35,"left":17},{"displayName":"Redstone Lamp","top":29,"left":22},{"displayName":"Redstone Ore","top":31,"left":27},{"displayName":"Redstone Repeater","top":29,"left":23},{"displayName":"Redstone Torch","top":29,"left":24},{"displayName":"Rose","top":33,"left":8},{"displayName":"Rose Bush","top":33,"left":9},{"displayName":"Rotten Flesh","top":26,"left":14},{"displayName":"Ruby","top":41,"left":0},{"displayName":"Saddle","top":38,"left":4},{"displayName":"Salmon Spawn Egg","top":53,"left":2},{"displayName":"Sand","top":31,"left":3},{"displayName":"Sandstone","top":31,"left":4},{"displayName":"Sandstone Slab","top":28,"left":21},{"displayName":"Sandstone Stairs","top":28,"left":22},{"displayName":"Scaffolding","top":33,"left":11},{"displayName":"Sea Pickle","top":"54","left":"7"},{"displayName":"Seeds","top":33,"left":10},{"displayName":"Shears","top":38,"left":5},{"displayName":"Sheep Spawn Egg","top":36,"left":5},{"displayName":"Shield","top":30,"left":31},{"displayName":"Shulker Shell","top":44,"left":1},{"displayName":"Shulker Spawn Egg","top":36,"left":6},{"displayName":"Silverfish Spawn Egg","top":36,"left":7},{"displayName":"Skeleton Horse Spawn Egg","top":"42","left":31},{"displayName":"Skeleton Skull","top":30,"left":6},{"displayName":"Skeleton Spawn Egg","top":36,"left":8},{"displayName":"Slime Block","top":28,"left":23},{"displayName":"Slime Spawn Egg","top":36,"left":9},{"displayName":"Slimeball","top":35,"left":18},{"displayName":"Smooth Red Sandstone","top":28,"left":24},{"displayName":"Smooth Sandstone","top":28,"left":25},{"displayName":"Smooth Stone","top":28,"left":26},{"displayName":"Smooth Stone Slab","top":29,"left":5},{"displayName":"Snow","top":31,"left":6},{"displayName":"Snow Block","top":28,"left":29},{"displayName":"Snowball","top":40,"left":9},{"displayName":"Soul Sand","top":31,"left":16},{"displayName":"Spectral Arrow","top":40,"left":10},{"displayName":"Spider Eye","top":20,"left":26},{"displayName":"Spider Spawn Egg","top":36,"left":10},{"displayName":"Splash Potion of Decay","top":43,"left":27},{"displayName":"Splash Potion of Fire Resistance","top":34,"left":12},{"displayName":"Splash Potion of Harming","top":34,"left":13},{"displayName":"Splash Potion of Healing","top":34,"left":14},{"displayName":"Splash Potion of Invisibility","top":34,"left":15},{"displayName":"Splash Potion of Leaping","top":34,"left":16},{"displayName":"Splash Potion of Luck","top":42,"left":16},{"displayName":"Splash Potion of Night Vision","top":34,"left":17},{"displayName":"Splash Potion of Poison","top":34,"left":18},{"displayName":"Splash Potion of Regeneration","top":34,"left":19},{"displayName":"Splash Potion of Slow Falling","top":54,"left":3},{"displayName":"Splash Potion of Slowness","top":34,"left":20},{"displayName":"Splash Potion of Strength","top":34,"left":21},{"displayName":"Splash Potion of Swiftness","top":34,"left":22},{"displayName":"Splash Potion of the Turtle Master","top":52,"left":13},{"displayName":"Splash Potion of Water Breathing","top":34,"left":23},{"displayName":"Splash Potion of Weakness","top":34,"left":24},{"displayName":"Sponge","top":39,"left":5},{"displayName":"Spruce Boat","top":42,"left":7},{"displayName":"Spruce Button","top":"51","left":19},{"displayName":"Spruce Door","top":29,"left":25},{"displayName":"Spruce Fence","top":28,"left":30},{"displayName":"Spruce Fence Gate","top":28,"left":31},{"displayName":"Spruce Leaves","top":33,"left":12},{"displayName":"Spruce Log","top":33,"left":14},{"displayName":"Spruce Planks","top":29,"left":0},{"displayName":"Spruce Pressure Plate","top":"51","left":24},{"displayName":"Spruce Sapling","top":33,"left":13},{"displayName":"Spruce Sign","top":"74","left":25},{"displayName":"Spruce Slab","top":29,"left":1},{"displayName":"Spruce Stairs","top":29,"left":2},{"displayName":"Spruce Trapdoor","top":"51","left":14},{"displayName":"Spruce Wood","top":"51","left":9},{"displayName":"Squid Spawn Egg","top":36,"left":11},{"displayName":"Steak","top":26,"left":15},{"displayName":"Stick","top":35,"left":19},{"displayName":"Sticky Piston","top":29,"left":26},{"displayName":"Stone","top":31,"left":7},{"displayName":"Stone Axe","top":38,"left":6},{"displayName":"Stone Brick Slab","top":29,"left":4},{"displayName":"Stone Brick Stairs","top":29,"left":3},{"displayName":"Stone Bricks","top":31,"left":8},{"displayName":"Stone Button","top":29,"left":27},{"displayName":"Stone Hoe","top":38,"left":7},{"displayName":"Stone Pickaxe","top":38,"left":8},{"displayName":"Stone Pressure Plate","top":29,"left":28},{"displayName":"Stone Shovel","top":38,"left":9},{"displayName":"Stone Slab Pre-Flip","top":27,"left":19},{"displayName":"Stone Sword","top":40,"left":11},{"displayName":"Stray Spawn Egg","top":43,"left":0},{"displayName":"String","top":35,"left":20},{"displayName":"Stripped Acacia Log","top":52,"left":5},{"displayName":"Stripped Acacia Wood","top":65,"left":22},{"displayName":"Stripped Birch Log","top":52,"left":6},{"displayName":"Stripped Birch Wood","top":65,"left":20},{"displayName":"Stripped Dark Oak Log","top":52,"left":7},{"displayName":"Stripped Dark Oak Wood","top":65,"left":23},{"displayName":"Stripped Jungle Log","top":52,"left":8},{"displayName":"Stripped Jungle Wood","top":65,"left":21},{"displayName":"Stripped Oak Log","top":52,"left":9},{"displayName":"Stripped Oak Wood","top":65,"left":18},{"displayName":"Stripped Spruce Log","top":52,"left":10},{"displayName":"Stripped Spruce Wood","top":65,"left":19},{"displayName":"Structure Block","top":43,"left":3},{"displayName":"Sugar","top":26,"left":16},{"displayName":"Sugar Cane","top":33,"left":15},{"displayName":"Sunflower","top":33,"left":16},{"displayName":"Tall Grass","top":32,"left":15},{"displayName":"Terracotta","top":30,"left":22},{"displayName":"TNT","top":39,"left":6},{"displayName":"Torch","top":31,"left":20},{"displayName":"Totem of Undying","top":44,"left":6},{"displayName":"Trident","top":"53","left":19},{"displayName":"Tripwire Hook","top":29,"left":30},{"displayName":"Tropical Fish","top":52,"left":24},{"displayName":"Tropical Fish Spawn Egg","top":"53","left":25},{"displayName":"Tube Coral","top":"53","left":14},{"displayName":"Tube Coral Block","top":"53","left":9},{"displayName":"Turtle Egg","top":52,"left":3},{"displayName":"Turtle Shell","top":52,"left":16},{"displayName":"Turtle Spawn Egg","top":54,"left":0},{"displayName":"Uncraftable Lingering Potion","top":43,"left":30},{"displayName":"Uncraftable Potion","top":43,"left":26},{"displayName":"Uncraftable Splash Potion","top":43,"left":28},{"displayName":"Uncraftable Tipped Arrow","top":44,"left":0},{"displayName":"Vex Spawn Egg","top":44,"left":4},{"displayName":"Villager Spawn Egg","top":36,"left":12},{"displayName":"Vindicator Spawn Egg","top":44,"left":5},{"displayName":"Water Bottle","top":42,"left":2},{"displayName":"Water Bucket","top":20,"left":30},{"displayName":"Wet Sponge","top":39,"left":9},{"displayName":"Wheat","top":26,"left":17},{"displayName":"White Banner","top":24,"left":19},{"displayName":"White Bed","top":49,"left":19},{"displayName":"White Carpet","top":51,"left":2},{"displayName":"White Concrete","top":47,"left":12},{"displayName":"White Concrete Powder","top":47,"left":13},{"displayName":"White Dye","top":74,"left":9},{"displayName":"White Firework Star","top":25,"left":19},{"displayName":"White Glazed Terracotta","top":47,"left":14},{"displayName":"White Glazed Terracotta","top":48,"left":6},{"displayName":"White Shield","top":42,"left":0},{"displayName":"White Shulker Box","top":50,"left":16},{"displayName":"White Stained Glass","top":24,"left":22},{"displayName":"White Stained Glass Pane","top":24,"left":23},{"displayName":"White Terracotta","top":24,"left":21},{"displayName":"White Tulip","top":33,"left":18},{"displayName":"White Wool","top":48,"left":0},{"displayName":"Witch Spawn Egg","top":36,"left":13},{"displayName":"Wither Rose","top":74,"left":19},{"displayName":"Wither Skeleton Skull","top":30,"left":7},{"displayName":"Wither Skeleton Spawn Egg","top":43,"left":1},{"displayName":"Wolf Spawn Egg","top":36,"left":14},{"displayName":"Wooden Axe","top":38,"left":10},{"displayName":"Wooden Hoe","top":38,"left":11},{"displayName":"Wooden Pickaxe","top":38,"left":12},{"displayName":"Wooden Shovel","top":38,"left":13},{"displayName":"Wooden Sword","top":40,"left":12},{"displayName":"Woodland Explorer Map","top":44,"left":24},{"displayName":"Written Book","top":38,"left":14},{"displayName":"Yellow Banner","top":24,"left":25},{"displayName":"Yellow Bed","top":49,"left":20},{"displayName":"Yellow Carpet","top":51,"left":3},{"displayName":"Yellow Concrete","top":47,"left":15},{"displayName":"Yellow Concrete Powder","top":47,"left":16},{"displayName":"Yellow Dye","top":21,"left":19},{"displayName":"Yellow Firework Star","top":25,"left":20},{"displayName":"Yellow Glazed Terracotta","top":47,"left":17},{"displayName":"Yellow Shield","top":42,"left":1},{"displayName":"Yellow Shulker Box","top":50,"left":17},{"displayName":"Yellow Stained Glass","top":24,"left":28},{"displayName":"Yellow Stained Glass Pane","top":24,"left":29},{"displayName":"Yellow Terracotta","top":24,"left":27},{"displayName":"Yellow Wool","top":48,"left":1},{"displayName":"Zombie Head","top":30,"left":8},{"displayName":"Zombie Horse Spawn Egg","top":43,"left":2},{"displayName":"Zombie Pigman Spawn Egg","top":36,"left":16},{"displayName":"Zombie Spawn Egg","top":36,"left":15},{"displayName":"Zombie Villager Spawn Egg","top":42,"left":4}]
+[
+	{
+		"displayName": "???",
+		"top": 0,
+		"left": 0
+	},
+	{
+		"displayName": "Acacia Boat",
+		"top": 42,
+		"left": 10
+	},
+	{
+		"displayName": "Acacia Button",
+		"top": 51,
+		"left": 22
+	},
+	{
+		"displayName": "Acacia Door",
+		"top": 29,
+		"left": 6
+	},
+	{
+		"displayName": "Acacia Fence",
+		"top": 26,
+		"left": 19
+	},
+	{
+		"displayName": "Acacia Fence Gate",
+		"top": 26,
+		"left": 20
+	},
+	{
+		"displayName": "Acacia Leaves",
+		"top": 31,
+		"left": 28
+	},
+	{
+		"displayName": "Acacia Log",
+		"top": 31,
+		"left": 30
+	},
+	{
+		"displayName": "Acacia Planks",
+		"top": 26,
+		"left": 21
+	},
+	{
+		"displayName": "Acacia Pressure Plate",
+		"top": 51,
+		"left": 27
+	},
+	{
+		"displayName": "Acacia Sapling",
+		"top": 31,
+		"left": 29
+	},
+	{
+		"displayName": "Acacia Sign",
+		"top": 74,
+		"left": 27
+	},
+	{
+		"displayName": "Acacia Slab",
+		"top": 26,
+		"left": 22
+	},
+	{
+		"displayName": "Acacia Stairs",
+		"top": 26,
+		"left": 23
+	},
+	{
+		"displayName": "Acacia Trapdoor",
+		"top": 51,
+		"left": 17
+	},
+	{
+		"displayName": "Acacia Wood",
+		"top": 51,
+		"left": 12
+	},
+	{
+		"displayName": "Activator Rail",
+		"top": 29,
+		"left": 7
+	},
+	{
+		"displayName": "Adult Nether Warts",
+		"top": 31,
+		"left": 14
+	},
+	{
+		"displayName": "Air",
+		"top": 73,
+		"left": 27
+	},
+	{
+		"displayName": "Allium",
+		"top": 31,
+		"left": 31
+	},
+	{
+		"displayName": "Andesite",
+		"top": 30,
+		"left": 9
+	},
+	{
+		"displayName": "Anvil",
+		"top": 38,
+		"left": 15
+	},
+	{
+		"displayName": "Apple",
+		"top": 25,
+		"left": 21
+	},
+	{
+		"displayName": "Armor Stand",
+		"top": 21,
+		"left": 1
+	},
+	{
+		"displayName": "Arrow",
+		"top": 39,
+		"left": 18
+	},
+	{
+		"displayName": "Arrow of Decay",
+		"top": 43,
+		"left": 31
+	},
+	{
+		"displayName": "Arrow of Fire Resistance",
+		"top": 39,
+		"left": 19
+	},
+	{
+		"displayName": "Arrow of Harming",
+		"top": 39,
+		"left": 20
+	},
+	{
+		"displayName": "Arrow of Healing",
+		"top": 39,
+		"left": 21
+	},
+	{
+		"displayName": "Arrow of Invisibility",
+		"top": 39,
+		"left": 22
+	},
+	{
+		"displayName": "Arrow of Leaping",
+		"top": 39,
+		"left": 23
+	},
+	{
+		"displayName": "Arrow of Luck",
+		"top": 42,
+		"left": 17
+	},
+	{
+		"displayName": "Arrow of Night Vision",
+		"top": 39,
+		"left": 24
+	},
+	{
+		"displayName": "Arrow of Poison",
+		"top": 39,
+		"left": 25
+	},
+	{
+		"displayName": "Arrow of Regeneration",
+		"top": 39,
+		"left": 26
+	},
+	{
+		"displayName": "Arrow of Slow Falling",
+		"top": 48,
+		"left": 25
+	},
+	{
+		"displayName": "Arrow of Slow Falling",
+		"top": 54,
+		"left": 5
+	},
+	{
+		"displayName": "Arrow of Slowness",
+		"top": 39,
+		"left": 27
+	},
+	{
+		"displayName": "Arrow of Strength",
+		"top": 39,
+		"left": 28
+	},
+	{
+		"displayName": "Arrow of Swiftness",
+		"top": 39,
+		"left": 29
+	},
+	{
+		"displayName": "Arrow of Water Breathing",
+		"top": 39,
+		"left": 17
+	},
+	{
+		"displayName": "Arrow of Weakness",
+		"top": 39,
+		"left": 30
+	},
+	{
+		"displayName": "Awkward Lingering Potion",
+		"top": 34,
+		"left": 8
+	},
+	{
+		"displayName": "Awkward Potion",
+		"top": 33,
+		"left": 26
+	},
+	{
+		"displayName": "Awkward Splash Potion",
+		"top": 34,
+		"left": 11
+	},
+	{
+		"displayName": "Azure Bluet",
+		"top": 32,
+		"left": 0
+	},
+	{
+		"displayName": "Baked Potato",
+		"top": 20,
+		"left": 12
+	},
+	{
+		"displayName": "Bamboo",
+		"top": 74,
+		"left": 4
+	},
+	{
+		"displayName": "Barrier",
+		"top": 38,
+		"left": 16
+	},
+	{
+		"displayName": "Bat Spawn Egg",
+		"top": 35,
+		"left": 21
+	},
+	{
+		"displayName": "Beacon",
+		"top": 38,
+		"left": 17
+	},
+	{
+		"displayName": "Bedrock",
+		"top": 30,
+		"left": 10
+	},
+	{
+		"displayName": "Beetroot",
+		"top": 33,
+		"left": 19
+	},
+	{
+		"displayName": "Beetroot Seeds",
+		"top": 33,
+		"left": 20
+	},
+	{
+		"displayName": "Beetroot Soup",
+		"top": 33,
+		"left": 21
+	},
+	{
+		"displayName": "Birch Boat",
+		"top": 42,
+		"left": 8
+	},
+	{
+		"displayName": "Birch Button",
+		"top": 51,
+		"left": 20
+	},
+	{
+		"displayName": "Birch Door",
+		"top": 29,
+		"left": 8
+	},
+	{
+		"displayName": "Birch Fence",
+		"top": 26,
+		"left": 24
+	},
+	{
+		"displayName": "Birch Fence Gate",
+		"top": 26,
+		"left": 25
+	},
+	{
+		"displayName": "Birch Leaves",
+		"top": 32,
+		"left": 1
+	},
+	{
+		"displayName": "Birch Log",
+		"top": 32,
+		"left": 3
+	},
+	{
+		"displayName": "Birch Planks",
+		"top": 26,
+		"left": 26
+	},
+	{
+		"displayName": "Birch Pressure Plate",
+		"top": 51,
+		"left": 25
+	},
+	{
+		"displayName": "Birch Sapling",
+		"top": 32,
+		"left": 2
+	},
+	{
+		"displayName": "Birch Sign",
+		"top": 74,
+		"left": 24
+	},
+	{
+		"displayName": "Birch Slab",
+		"top": 26,
+		"left": 27
+	},
+	{
+		"displayName": "Birch Stairs",
+		"top": 26,
+		"left": 28
+	},
+	{
+		"displayName": "Birch Trapdoor",
+		"top": 51,
+		"left": 15
+	},
+	{
+		"displayName": "Birch Wood",
+		"top": 51,
+		"left": 10
+	},
+	{
+		"displayName": "Black Banner",
+		"top": 21,
+		"left": 31
+	},
+	{
+		"displayName": "Black Bed",
+		"top": 49,
+		"left": 5
+	},
+	{
+		"displayName": "Black Carpet",
+		"top": 50,
+		"left": 20
+	},
+	{
+		"displayName": "Black Concrete",
+		"top": 46,
+		"left": 2
+	},
+	{
+		"displayName": "Black Concrete Powder",
+		"top": 46,
+		"left": 3
+	},
+	{
+		"displayName": "Black Dye",
+		"top": 74,
+		"left": 6
+	},
+	{
+		"displayName": "Black Firework Star",
+		"top": 25,
+		"left": 3
+	},
+	{
+		"displayName": "Black Glazed Terracotta",
+		"top": 46,
+		"left": 4
+	},
+	{
+		"displayName": "Black Shield",
+		"top": 41,
+		"left": 18
+	},
+	{
+		"displayName": "Black Shulker Box",
+		"top": 50,
+		"left": 2
+	},
+	{
+		"displayName": "Black Stained Glass",
+		"top": 22,
+		"left": 2
+	},
+	{
+		"displayName": "Black Stained Glass Pane",
+		"top": 22,
+		"left": 3
+	},
+	{
+		"displayName": "Black Terracotta",
+		"top": 22,
+		"left": 1
+	},
+	{
+		"displayName": "Black Wool",
+		"top": 47,
+		"left": 18
+	},
+	{
+		"displayName": "Blaze Powder",
+		"top": 20,
+		"left": 13
+	},
+	{
+		"displayName": "Blaze Rod",
+		"top": 20,
+		"left": 14
+	},
+	{
+		"displayName": "Blaze Spawn Egg",
+		"top": 35,
+		"left": 22
+	},
+	{
+		"displayName": "Block of Coal",
+		"top": 26,
+		"left": 29
+	},
+	{
+		"displayName": "Block of Diamond",
+		"top": 26,
+		"left": 30
+	},
+	{
+		"displayName": "Block of Emerald",
+		"top": 26,
+		"left": 31
+	},
+	{
+		"displayName": "Block of Gold",
+		"top": 27,
+		"left": 0
+	},
+	{
+		"displayName": "Block of Iron",
+		"top": 27,
+		"left": 1
+	},
+	{
+		"displayName": "Block of Quartz",
+		"top": 27,
+		"left": 2
+	},
+	{
+		"displayName": "Block of Redstone",
+		"top": 29,
+		"left": 9
+	},
+	{
+		"displayName": "Blue Banner",
+		"top": 22,
+		"left": 5
+	},
+	{
+		"displayName": "Blue Bed",
+		"top": 49,
+		"left": 6
+	},
+	{
+		"displayName": "Blue Carpet",
+		"top": 50,
+		"left": 21
+	},
+	{
+		"displayName": "Blue Concrete",
+		"top": 46,
+		"left": 5
+	},
+	{
+		"displayName": "Blue Concrete Powder",
+		"top": 46,
+		"left": 6
+	},
+	{
+		"displayName": "Blue Dye",
+		"top": 74,
+		"left": 7
+	},
+	{
+		"displayName": "Blue Firework Star",
+		"top": 25,
+		"left": 4
+	},
+	{
+		"displayName": "Blue Glazed Terracotta",
+		"top": 46,
+		"left": 7
+	},
+	{
+		"displayName": "Blue Ice",
+		"top": 54,
+		"left": 6
+	},
+	{
+		"displayName": "Blue Orchid",
+		"top": 32,
+		"left": 4
+	},
+	{
+		"displayName": "Blue Shield",
+		"top": 41,
+		"left": 19
+	},
+	{
+		"displayName": "Blue Shulker Box",
+		"top": 50,
+		"left": 3
+	},
+	{
+		"displayName": "Blue Stained Glass",
+		"top": 22,
+		"left": 8
+	},
+	{
+		"displayName": "Blue Stained Glass Pane",
+		"top": 22,
+		"left": 9
+	},
+	{
+		"displayName": "Blue Terracotta",
+		"top": 22,
+		"left": 7
+	},
+	{
+		"displayName": "Blue Wool",
+		"top": 47,
+		"left": 19
+	},
+	{
+		"displayName": "Boat",
+		"top": 39,
+		"left": 10
+	},
+	{
+		"displayName": "Bone",
+		"top": 34,
+		"left": 25
+	},
+	{
+		"displayName": "Bone Block",
+		"top": 42,
+		"left": 23
+	},
+	{
+		"displayName": "Bone Meal",
+		"top": 21,
+		"left": 15
+	},
+	{
+		"displayName": "Book",
+		"top": 34,
+		"left": 26
+	},
+	{
+		"displayName": "Book and Quill",
+		"top": 36,
+		"left": 17
+	},
+	{
+		"displayName": "Bookshelf",
+		"top": 27,
+		"left": 3
+	},
+	{
+		"displayName": "Bottle o' Enchanting",
+		"top": 34,
+		"left": 10
+	},
+	{
+		"displayName": "Bow",
+		"top": 39,
+		"left": 31
+	},
+	{
+		"displayName": "Bowl",
+		"top": 36,
+		"left": 18
+	},
+	{
+		"displayName": "Brain Coral",
+		"top": 53,
+		"left": 15
+	},
+	{
+		"displayName": "Brain Coral Block",
+		"top": 53,
+		"left": 10
+	},
+	{
+		"displayName": "Bread",
+		"top": 25,
+		"left": 22
+	},
+	{
+		"displayName": "Brewing Stand",
+		"top": 38,
+		"left": 19
+	},
+	{
+		"displayName": "Brick",
+		"top": 34,
+		"left": 27
+	},
+	{
+		"displayName": "Brick Stairs",
+		"top": 27,
+		"left": 4
+	},
+	{
+		"displayName": "Bricks",
+		"top": 27,
+		"left": 5
+	},
+	{
+		"displayName": "Bricks Slab",
+		"top": 27,
+		"left": 6
+	},
+	{
+		"displayName": "Broken Elytra",
+		"top": 31,
+		"left": 5
+	},
+	{
+		"displayName": "Brown Banner",
+		"top": 22,
+		"left": 11
+	},
+	{
+		"displayName": "Brown Bed",
+		"top": 49,
+		"left": 7
+	},
+	{
+		"displayName": "Brown Carpet",
+		"top": 50,
+		"left": 22
+	},
+	{
+		"displayName": "Brown Concrete",
+		"top": 46,
+		"left": 8
+	},
+	{
+		"displayName": "Brown Concrete Powder",
+		"top": 46,
+		"left": 9
+	},
+	{
+		"displayName": "Brown Dye",
+		"top": 74,
+		"left": 8
+	},
+	{
+		"displayName": "Brown Firework Star",
+		"top": 25,
+		"left": 5
+	},
+	{
+		"displayName": "Brown Glazed Terracotta",
+		"top": 46,
+		"left": 10
+	},
+	{
+		"displayName": "Brown Mushroom",
+		"top": 32,
+		"left": 5
+	},
+	{
+		"displayName": "Brown Mushroom Block",
+		"top": 32,
+		"left": 6
+	},
+	{
+		"displayName": "Brown Shield",
+		"top": 41,
+		"left": 20
+	},
+	{
+		"displayName": "Brown Shulker Box",
+		"top": 50,
+		"left": 4
+	},
+	{
+		"displayName": "Brown Stained Glass",
+		"top": 22,
+		"left": 14
+	},
+	{
+		"displayName": "Brown Stained Glass Pane",
+		"top": 22,
+		"left": 15
+	},
+	{
+		"displayName": "Brown Terracotta",
+		"top": 22,
+		"left": 13
+	},
+	{
+		"displayName": "Brown Wool",
+		"top": 47,
+		"left": 20
+	},
+	{
+		"displayName": "Bubble Coral",
+		"top": 53,
+		"left": 16
+	},
+	{
+		"displayName": "Bubble Coral Block",
+		"top": 53,
+		"left": 11
+	},
+	{
+		"displayName": "Bucket",
+		"top": 20,
+		"left": 27
+	},
+	{
+		"displayName": "Bucket of Cod",
+		"top": 52,
+		"left": 21
+	},
+	{
+		"displayName": "Bucket of Pufferfish",
+		"top": 52,
+		"left": 22
+	},
+	{
+		"displayName": "Bucket of Salmon",
+		"top": 52,
+		"left": 23
+	},
+	{
+		"displayName": "Bucket of Tropical Fish",
+		"top": 52,
+		"left": 20
+	},
+	{
+		"displayName": "Cactus",
+		"top": 32,
+		"left": 7
+	},
+	{
+		"displayName": "Cactus Green",
+		"top": 21,
+		"left": 16
+	},
+	{
+		"displayName": "Cake",
+		"top": 38,
+		"left": 20
+	},
+	{
+		"displayName": "Carrot",
+		"top": 20,
+		"left": 15
+	},
+	{
+		"displayName": "Carrot on a Stick",
+		"top": 36,
+		"left": 19
+	},
+	{
+		"displayName": "Cat Spawn Egg",
+		"top": 48,
+		"left": 26
+	},
+	{
+		"displayName": "Cauldron",
+		"top": 38,
+		"left": 21
+	},
+	{
+		"displayName": "Cave Spider Spawn Egg",
+		"top": 35,
+		"left": 23
+	},
+	{
+		"displayName": "Chainmail Boots",
+		"top": 0,
+		"left": 1
+	},
+	{
+		"displayName": "Chainmail Chestplate",
+		"top": 0,
+		"left": 2
+	},
+	{
+		"displayName": "Chainmail Helmet",
+		"top": 0,
+		"left": 3
+	},
+	{
+		"displayName": "Chainmail Leggings",
+		"top": 0,
+		"left": 4
+	},
+	{
+		"displayName": "Charcoal",
+		"top": 34,
+		"left": 28
+	},
+	{
+		"displayName": "Chest",
+		"top": 39,
+		"left": 7
+	},
+	{
+		"displayName": "Chicken Spawn Egg",
+		"top": 35,
+		"left": 24
+	},
+	{
+		"displayName": "Chiseled Quartz Block",
+		"top": 27,
+		"left": 7
+	},
+	{
+		"displayName": "Chiseled Red Sandstone",
+		"top": 27,
+		"left": 8
+	},
+	{
+		"displayName": "Chiseled Sandstone",
+		"top": 27,
+		"left": 9
+	},
+	{
+		"displayName": "Chiseled Stone Bricks",
+		"top": 30,
+		"left": 11
+	},
+	{
+		"displayName": "Chorus Flower",
+		"top": 32,
+		"left": 8
+	},
+	{
+		"displayName": "Chorus Fruit",
+		"top": 25,
+		"left": 23
+	},
+	{
+		"displayName": "Chorus Plant",
+		"top": 32,
+		"left": 9
+	},
+	{
+		"displayName": "Clay",
+		"top": 34,
+		"left": 29
+	},
+	{
+		"displayName": "Clay (block)",
+		"top": 30,
+		"left": 12
+	},
+	{
+		"displayName": "Clock",
+		"top": 36,
+		"left": 20
+	},
+	{
+		"displayName": "Clownfish",
+		"top": 25,
+		"left": 24
+	},
+	{
+		"displayName": "Coal",
+		"top": 34,
+		"left": 30
+	},
+	{
+		"displayName": "Coal Ore",
+		"top": 31,
+		"left": 21
+	},
+	{
+		"displayName": "Coarse Dirt",
+		"top": 30,
+		"left": 13
+	},
+	{
+		"displayName": "Cobblestone",
+		"top": 27,
+		"left": 10
+	},
+	{
+		"displayName": "Cobblestone Slab",
+		"top": 27,
+		"left": 11
+	},
+	{
+		"displayName": "Cobblestone Stairs",
+		"top": 27,
+		"left": 12
+	},
+	{
+		"displayName": "Cobblestone Wall",
+		"top": 27,
+		"left": 13
+	},
+	{
+		"displayName": "Cobweb",
+		"top": 30,
+		"left": 14
+	},
+	{
+		"displayName": "Cocoa Beans",
+		"top": 21,
+		"left": 17
+	},
+	{
+		"displayName": "Cod Spawn Egg",
+		"top": 53,
+		"left": 0
+	},
+	{
+		"displayName": "Command Block",
+		"top": 38,
+		"left": 23
+	},
+	{
+		"displayName": "Compass",
+		"top": 36,
+		"left": 21
+	},
+	{
+		"displayName": "Cooked Chicken",
+		"top": 25,
+		"left": 25
+	},
+	{
+		"displayName": "Cooked Cod",
+		"top": 52,
+		"left": 25
+	},
+	{
+		"displayName": "Cooked Fish",
+		"top": 25,
+		"left": 26
+	},
+	{
+		"displayName": "Cooked Mutton",
+		"top": 25,
+		"left": 27
+	},
+	{
+		"displayName": "Cooked Porkchop",
+		"top": 25,
+		"left": 28
+	},
+	{
+		"displayName": "Cooked Rabbit",
+		"top": 25,
+		"left": 29
+	},
+	{
+		"displayName": "Cooked Salmon",
+		"top": 25,
+		"left": 30
+	},
+	{
+		"displayName": "Cooked Salmon",
+		"top": 52,
+		"left": 26
+	},
+	{
+		"displayName": "Cookie",
+		"top": 25,
+		"left": 31
+	},
+	{
+		"displayName": "Cornflower",
+		"top": 74,
+		"left": 20
+	},
+	{
+		"displayName": "Cow Spawn Egg",
+		"top": 35,
+		"left": 25
+	},
+	{
+		"displayName": "Cracked Stone Bricks",
+		"top": 30,
+		"left": 15
+	},
+	{
+		"displayName": "Crafting Table",
+		"top": 38,
+		"left": 24
+	},
+	{
+		"displayName": "Creeper Head",
+		"top": 30,
+		"left": 3
+	},
+	{
+		"displayName": "Creeper Spawn Egg",
+		"top": 35,
+		"left": 26
+	},
+	{
+		"displayName": "Crossbow",
+		"top": 74,
+		"left": 13
+	},
+	{
+		"displayName": "Cut Red Sandstone",
+		"top": 28,
+		"left": 27
+	},
+	{
+		"displayName": "Cut Sandstone",
+		"top": 28,
+		"left": 28
+	},
+	{
+		"displayName": "Cyan Banner",
+		"top": 22,
+		"left": 17
+	},
+	{
+		"displayName": "Cyan Bed",
+		"top": 49,
+		"left": 8
+	},
+	{
+		"displayName": "Cyan Carpet",
+		"top": 50,
+		"left": 23
+	},
+	{
+		"displayName": "Cyan Concrete",
+		"top": 46,
+		"left": 11
+	},
+	{
+		"displayName": "Cyan Concrete Powder",
+		"top": 46,
+		"left": 12
+	},
+	{
+		"displayName": "Cyan Dye",
+		"top": 21,
+		"left": 18
+	},
+	{
+		"displayName": "Cyan Firework Star",
+		"top": 25,
+		"left": 6
+	},
+	{
+		"displayName": "Cyan Flower",
+		"top": 33,
+		"left": 22
+	},
+	{
+		"displayName": "Cyan Glazed Terracotta",
+		"top": 46,
+		"left": 13
+	},
+	{
+		"displayName": "Cyan Glazed Terracotta",
+		"top": 48,
+		"left": 3
+	},
+	{
+		"displayName": "Cyan Shield",
+		"top": 41,
+		"left": 21
+	},
+	{
+		"displayName": "Cyan Shulker Box",
+		"top": 50,
+		"left": 5
+	},
+	{
+		"displayName": "Cyan Stained Glass",
+		"top": 22,
+		"left": 20
+	},
+	{
+		"displayName": "Cyan Stained Glass Pane",
+		"top": 22,
+		"left": 21
+	},
+	{
+		"displayName": "Cyan Terracotta",
+		"top": 22,
+		"left": 19
+	},
+	{
+		"displayName": "Cyan Wool",
+		"top": 47,
+		"left": 21
+	},
+	{
+		"displayName": "Damaged Bow",
+		"top": 40,
+		"left": 0
+	},
+	{
+		"displayName": "Damaged Carrot on a Stick",
+		"top": 36,
+		"left": 22
+	},
+	{
+		"displayName": "Damaged Chainmail Boots",
+		"top": 0,
+		"left": 5
+	},
+	{
+		"displayName": "Damaged Chainmail Chestplate",
+		"top": 0,
+		"left": 6
+	},
+	{
+		"displayName": "Damaged Chainmail Helmet",
+		"top": 0,
+		"left": 7
+	},
+	{
+		"displayName": "Damaged Chainmail Leggings",
+		"top": 0,
+		"left": 8
+	},
+	{
+		"displayName": "Damaged Diamond Axe",
+		"top": 36,
+		"left": 23
+	},
+	{
+		"displayName": "Damaged Diamond Boots",
+		"top": 0,
+		"left": 9
+	},
+	{
+		"displayName": "Damaged Diamond Chestplate",
+		"top": 0,
+		"left": 10
+	},
+	{
+		"displayName": "Damaged Diamond Helmet",
+		"top": 0,
+		"left": 11
+	},
+	{
+		"displayName": "Damaged Diamond Hoe",
+		"top": 36,
+		"left": 24
+	},
+	{
+		"displayName": "Damaged Diamond Leggings",
+		"top": 0,
+		"left": 12
+	},
+	{
+		"displayName": "Damaged Diamond Pickaxe",
+		"top": 36,
+		"left": 25
+	},
+	{
+		"displayName": "Damaged Diamond Shovel",
+		"top": 36,
+		"left": 26
+	},
+	{
+		"displayName": "Damaged Diamond Sword",
+		"top": 40,
+		"left": 1
+	},
+	{
+		"displayName": "Damaged Elytra",
+		"top": 42,
+		"left": 13
+	},
+	{
+		"displayName": "Damaged Fishing Rod",
+		"top": 36,
+		"left": 27
+	},
+	{
+		"displayName": "Damaged Flint and Steel",
+		"top": 36,
+		"left": 28
+	},
+	{
+		"displayName": "Damaged Golden Axe",
+		"top": 36,
+		"left": 29
+	},
+	{
+		"displayName": "Damaged Golden Boots",
+		"top": 0,
+		"left": 13
+	},
+	{
+		"displayName": "Damaged Golden Chestplate",
+		"top": 0,
+		"left": 14
+	},
+	{
+		"displayName": "Damaged Golden Helmet",
+		"top": 0,
+		"left": 15
+	},
+	{
+		"displayName": "Damaged Golden Hoe",
+		"top": 36,
+		"left": 30
+	},
+	{
+		"displayName": "Damaged Golden Leggings",
+		"top": 0,
+		"left": 16
+	},
+	{
+		"displayName": "Damaged Golden Pickaxe",
+		"top": 36,
+		"left": 31
+	},
+	{
+		"displayName": "Damaged Golden Shovel",
+		"top": 37,
+		"left": 0
+	},
+	{
+		"displayName": "Damaged Golden Sword",
+		"top": 40,
+		"left": 2
+	},
+	{
+		"displayName": "Damaged Iron Axe",
+		"top": 37,
+		"left": 1
+	},
+	{
+		"displayName": "Damaged Iron Boots",
+		"top": 0,
+		"left": 17
+	},
+	{
+		"displayName": "Damaged Iron Chestplate",
+		"top": 0,
+		"left": 18
+	},
+	{
+		"displayName": "Damaged Iron Helmet",
+		"top": 0,
+		"left": 19
+	},
+	{
+		"displayName": "Damaged Iron Hoe",
+		"top": 37,
+		"left": 2
+	},
+	{
+		"displayName": "Damaged Iron Leggings",
+		"top": 0,
+		"left": 20
+	},
+	{
+		"displayName": "Damaged Iron Pickaxe",
+		"top": 37,
+		"left": 3
+	},
+	{
+		"displayName": "Damaged Iron Shovel",
+		"top": 37,
+		"left": 4
+	},
+	{
+		"displayName": "Damaged Iron Sword",
+		"top": 40,
+		"left": 3
+	},
+	{
+		"displayName": "Damaged Leather Boots",
+		"top": 0,
+		"left": 21
+	},
+	{
+		"displayName": "Damaged Leather Cap",
+		"top": 0,
+		"left": 22
+	},
+	{
+		"displayName": "Damaged Leather Pants",
+		"top": 0,
+		"left": 23
+	},
+	{
+		"displayName": "Damaged Leather Tunic",
+		"top": 0,
+		"left": 24
+	},
+	{
+		"displayName": "Damaged Shears",
+		"top": 37,
+		"left": 5
+	},
+	{
+		"displayName": "Damaged Shears",
+		"top": 42,
+		"left": 19
+	},
+	{
+		"displayName": "Damaged Stone Axe",
+		"top": 37,
+		"left": 6
+	},
+	{
+		"displayName": "Damaged Stone Hoe",
+		"top": 37,
+		"left": 7
+	},
+	{
+		"displayName": "Damaged Stone Pickaxe",
+		"top": 37,
+		"left": 8
+	},
+	{
+		"displayName": "Damaged Stone Shovel",
+		"top": 37,
+		"left": 9
+	},
+	{
+		"displayName": "Damaged Stone Sword",
+		"top": 40,
+		"left": 4
+	},
+	{
+		"displayName": "Damaged Wooden Axe",
+		"top": 37,
+		"left": 10
+	},
+	{
+		"displayName": "Damaged Wooden Hoe",
+		"top": 37,
+		"left": 11
+	},
+	{
+		"displayName": "Damaged Wooden Pickaxe",
+		"top": 37,
+		"left": 12
+	},
+	{
+		"displayName": "Damaged Wooden Shovel",
+		"top": 37,
+		"left": 13
+	},
+	{
+		"displayName": "Damaged Wooden Sword",
+		"top": 40,
+		"left": 5
+	},
+	{
+		"displayName": "Dandelion",
+		"top": 32,
+		"left": 10
+	},
+	{
+		"displayName": "Dark Oak Boat",
+		"top": 42,
+		"left": 11
+	},
+	{
+		"displayName": "Dark Oak Button",
+		"top": 51,
+		"left": 23
+	},
+	{
+		"displayName": "Dark Oak Door",
+		"top": 29,
+		"left": 10
+	},
+	{
+		"displayName": "Dark Oak Fence",
+		"top": 27,
+		"left": 14
+	},
+	{
+		"displayName": "Dark Oak Fence Gate",
+		"top": 27,
+		"left": 15
+	},
+	{
+		"displayName": "Dark Oak Leaves",
+		"top": 32,
+		"left": 11
+	},
+	{
+		"displayName": "Dark Oak Log",
+		"top": 32,
+		"left": 13
+	},
+	{
+		"displayName": "Dark Oak Planks",
+		"top": 27,
+		"left": 16
+	},
+	{
+		"displayName": "Dark Oak Pressure Plate",
+		"top": 51,
+		"left": 28
+	},
+	{
+		"displayName": "Dark Oak Sapling",
+		"top": 32,
+		"left": 12
+	},
+	{
+		"displayName": "Dark Oak Sign",
+		"top": 74,
+		"left": 28
+	},
+	{
+		"displayName": "Dark Oak Slab",
+		"top": 27,
+		"left": 17
+	},
+	{
+		"displayName": "Dark Oak Stairs",
+		"top": 27,
+		"left": 18
+	},
+	{
+		"displayName": "Dark Oak Trapdoor",
+		"top": 51,
+		"left": 18
+	},
+	{
+		"displayName": "Dark Oak Wood",
+		"top": 51,
+		"left": 13
+	},
+	{
+		"displayName": "Dark Prismarine",
+		"top": 30,
+		"left": 16
+	},
+	{
+		"displayName": "Dark Prismarine Slab",
+		"top": 52,
+		"left": 0
+	},
+	{
+		"displayName": "Dark Prismarine Stairs",
+		"top": 51,
+		"left": 29
+	},
+	{
+		"displayName": "Daylight Sensor",
+		"top": 38,
+		"left": 25
+	},
+	{
+		"displayName": "Dead Brain Coral Block",
+		"top": 53,
+		"left": 21
+	},
+	{
+		"displayName": "Dead Bubble Coral Block",
+		"top": 53,
+		"left": 22
+	},
+	{
+		"displayName": "Dead Bush",
+		"top": 32,
+		"left": 14
+	},
+	{
+		"displayName": "Dead Fire Coral Block",
+		"top": 53,
+		"left": 23
+	},
+	{
+		"displayName": "Dead Horn Coral Block",
+		"top": 53,
+		"left": 24
+	},
+	{
+		"displayName": "Dead Tube Coral Block",
+		"top": 53,
+		"left": 20
+	},
+	{
+		"displayName": "Detector Rail",
+		"top": 29,
+		"left": 11
+	},
+	{
+		"displayName": "Diamond",
+		"top": 34,
+		"left": 31
+	},
+	{
+		"displayName": "Diamond Axe",
+		"top": 37,
+		"left": 14
+	},
+	{
+		"displayName": "Diamond Boots",
+		"top": 0,
+		"left": 25
+	},
+	{
+		"displayName": "Diamond Chestplate",
+		"top": 0,
+		"left": 26
+	},
+	{
+		"displayName": "Diamond Helmet",
+		"top": 0,
+		"left": 27
+	},
+	{
+		"displayName": "Diamond Hoe",
+		"top": 37,
+		"left": 15
+	},
+	{
+		"displayName": "Diamond Horse Armor",
+		"top": 0,
+		"left": 28
+	},
+	{
+		"displayName": "Diamond Leggings",
+		"top": 0,
+		"left": 29
+	},
+	{
+		"displayName": "Diamond Ore",
+		"top": 31,
+		"left": 22
+	},
+	{
+		"displayName": "Diamond Pickaxe",
+		"top": 37,
+		"left": 16
+	},
+	{
+		"displayName": "Diamond Shovel",
+		"top": 37,
+		"left": 17
+	},
+	{
+		"displayName": "Diamond Sword",
+		"top": 40,
+		"left": 6
+	},
+	{
+		"displayName": "Diorite",
+		"top": 30,
+		"left": 17
+	},
+	{
+		"displayName": "Dirt",
+		"top": 30,
+		"left": 18
+	},
+	{
+		"displayName": "Dispenser",
+		"top": 38,
+		"left": 26
+	},
+	{
+		"displayName": "Donkey Spawn Egg",
+		"top": 42,
+		"left": 26
+	},
+	{
+		"displayName": "Dragon Egg",
+		"top": 24,
+		"left": 31
+	},
+	{
+		"displayName": "Dragon Head",
+		"top": 30,
+		"left": 4
+	},
+	{
+		"displayName": "Dragon's Breath",
+		"top": 33,
+		"left": 27
+	},
+	{
+		"displayName": "Dried Kelp",
+		"top": 52,
+		"left": 17
+	},
+	{
+		"displayName": "Dried Kelp Block",
+		"top": 52,
+		"left": 4
+	},
+	{
+		"displayName": "Dropper",
+		"top": 38,
+		"left": 27
+	},
+	{
+		"displayName": "Drowned Spawn Egg",
+		"top": 53,
+		"left": 30
+	},
+	{
+		"displayName": "Egg",
+		"top": 26,
+		"left": 0
+	},
+	{
+		"displayName": "Elder Guardian Spawn Egg",
+		"top": 42,
+		"left": 27
+	},
+	{
+		"displayName": "Elytra",
+		"top": 42,
+		"left": 12
+	},
+	{
+		"displayName": "Emerald",
+		"top": 35,
+		"left": 0
+	},
+	{
+		"displayName": "Emerald Ore",
+		"top": 31,
+		"left": 23
+	},
+	{
+		"displayName": "Empty Map",
+		"top": 37,
+		"left": 18
+	},
+	{
+		"displayName": "Enchanted Book",
+		"top": 37,
+		"left": 19
+	},
+	{
+		"displayName": "Enchantment Table",
+		"top": 38,
+		"left": 28
+	},
+	{
+		"displayName": "End Crystal",
+		"top": 42,
+		"left": 14
+	},
+	{
+		"displayName": "End Portal",
+		"top": 31,
+		"left": 17
+	},
+	{
+		"displayName": "End Portal Frame",
+		"top": 25,
+		"left": 0
+	},
+	{
+		"displayName": "End Rod",
+		"top": 25,
+		"left": 1
+	},
+	{
+		"displayName": "End Stone",
+		"top": 25,
+		"left": 2
+	},
+	{
+		"displayName": "End Stone Bricks",
+		"top": 27,
+		"left": 20
+	},
+	{
+		"displayName": "Ender Chest",
+		"top": 38,
+		"left": 29
+	},
+	{
+		"displayName": "Ender Pearl",
+		"top": 37,
+		"left": 20
+	},
+	{
+		"displayName": "Enderman Spawn Egg",
+		"top": 35,
+		"left": 27
+	},
+	{
+		"displayName": "Endermite Spawn Egg",
+		"top": 35,
+		"left": 28
+	},
+	{
+		"displayName": "Evoker Spawn Egg",
+		"top": 44,
+		"left": 2
+	},
+	{
+		"displayName": "Eye of Ender",
+		"top": 35,
+		"left": 1
+	},
+	{
+		"displayName": "Farmland",
+		"top": 27,
+		"left": 21
+	},
+	{
+		"displayName": "Feather",
+		"top": 35,
+		"left": 2
+	},
+	{
+		"displayName": "Fermented Spider Eye",
+		"top": 20,
+		"left": 16
+	},
+	{
+		"displayName": "Fern",
+		"top": 32,
+		"left": 16
+	},
+	{
+		"displayName": "Fire Charge",
+		"top": 37,
+		"left": 21
+	},
+	{
+		"displayName": "Fire Coral",
+		"top": 53,
+		"left": 17
+	},
+	{
+		"displayName": "Fire Coral Block",
+		"top": 53,
+		"left": 12
+	},
+	{
+		"displayName": "Firework Rocket",
+		"top": 25,
+		"left": 7
+	},
+	{
+		"displayName": "Fishing Rod",
+		"top": 37,
+		"left": 22
+	},
+	{
+		"displayName": "Flint",
+		"top": 35,
+		"left": 3
+	},
+	{
+		"displayName": "Flint and Steel",
+		"top": 37,
+		"left": 23
+	},
+	{
+		"displayName": "Flower Pot",
+		"top": 21,
+		"left": 6
+	},
+	{
+		"displayName": "Furnace",
+		"top": 38,
+		"left": 30
+	},
+	{
+		"displayName": "Ghast Spawn Egg",
+		"top": 35,
+		"left": 29
+	},
+	{
+		"displayName": "Ghast Tear",
+		"top": 20,
+		"left": 17
+	},
+	{
+		"displayName": "Glass",
+		"top": 27,
+		"left": 24
+	},
+	{
+		"displayName": "Glass Bottle",
+		"top": 37,
+		"left": 24
+	},
+	{
+		"displayName": "Glass Pane",
+		"top": 27,
+		"left": 25
+	},
+	{
+		"displayName": "Glistering Melon Slice",
+		"top": 20,
+		"left": 18
+	},
+	{
+		"displayName": "Glowing Obsidian",
+		"top": 33,
+		"left": 23
+	},
+	{
+		"displayName": "Glowstone",
+		"top": 31,
+		"left": 9
+	},
+	{
+		"displayName": "Glowstone Dust",
+		"top": 35,
+		"left": 4
+	},
+	{
+		"displayName": "Gold Ingot",
+		"top": 35,
+		"left": 5
+	},
+	{
+		"displayName": "Gold Nugget",
+		"top": 20,
+		"left": 19
+	},
+	{
+		"displayName": "Gold Ore",
+		"top": 31,
+		"left": 24
+	},
+	{
+		"displayName": "Golden Apple",
+		"top": 26,
+		"left": 1
+	},
+	{
+		"displayName": "Golden Axe",
+		"top": 37,
+		"left": 25
+	},
+	{
+		"displayName": "Golden Boots",
+		"top": 0,
+		"left": 30
+	},
+	{
+		"displayName": "Golden Carrot",
+		"top": 20,
+		"left": 20
+	},
+	{
+		"displayName": "Golden Chestplate",
+		"top": 0,
+		"left": 31
+	},
+	{
+		"displayName": "Golden Helmet",
+		"top": 1,
+		"left": 0
+	},
+	{
+		"displayName": "Golden Hoe",
+		"top": 37,
+		"left": 26
+	},
+	{
+		"displayName": "Golden Horse Armor",
+		"top": 1,
+		"left": 1
+	},
+	{
+		"displayName": "Golden Leggings",
+		"top": 1,
+		"left": 2
+	},
+	{
+		"displayName": "Golden Pickaxe",
+		"top": 37,
+		"left": 27
+	},
+	{
+		"displayName": "Golden Shovel",
+		"top": 37,
+		"left": 28
+	},
+	{
+		"displayName": "Golden Sword",
+		"top": 40,
+		"left": 7
+	},
+	{
+		"displayName": "Granite",
+		"top": 30,
+		"left": 19
+	},
+	{
+		"displayName": "Grass",
+		"top": 32,
+		"left": 17
+	},
+	{
+		"displayName": "Grass Block",
+		"top": 30,
+		"left": 20
+	},
+	{
+		"displayName": "Grass Path",
+		"top": 42,
+		"left": 3
+	},
+	{
+		"displayName": "Gravel",
+		"top": 30,
+		"left": 21
+	},
+	{
+		"displayName": "Gray Banner",
+		"top": 22,
+		"left": 23
+	},
+	{
+		"displayName": "Gray Bed",
+		"top": 49,
+		"left": 9
+	},
+	{
+		"displayName": "Gray Carpet",
+		"top": 50,
+		"left": 24
+	},
+	{
+		"displayName": "Gray Concrete",
+		"top": 46,
+		"left": 14
+	},
+	{
+		"displayName": "Gray Concrete Powder",
+		"top": 46,
+		"left": 15
+	},
+	{
+		"displayName": "Gray Dye",
+		"top": 21,
+		"left": 20
+	},
+	{
+		"displayName": "Gray Firework Star",
+		"top": 25,
+		"left": 8
+	},
+	{
+		"displayName": "Gray Firework Star",
+		"top": 25,
+		"left": 9
+	},
+	{
+		"displayName": "Gray Firework Star",
+		"top": 25,
+		"left": 10
+	},
+	{
+		"displayName": "Gray Glazed Terracotta",
+		"top": 46,
+		"left": 16
+	},
+	{
+		"displayName": "Gray Shield",
+		"top": 41,
+		"left": 22
+	},
+	{
+		"displayName": "Gray Shulker Box",
+		"top": 50,
+		"left": 6
+	},
+	{
+		"displayName": "Gray Stained Glass",
+		"top": 22,
+		"left": 26
+	},
+	{
+		"displayName": "Gray Stained Glass Pane",
+		"top": 22,
+		"left": 27
+	},
+	{
+		"displayName": "Gray Terracotta",
+		"top": 22,
+		"left": 25
+	},
+	{
+		"displayName": "Gray Wool",
+		"top": 47,
+		"left": 22
+	},
+	{
+		"displayName": "Green Banner",
+		"top": 22,
+		"left": 29
+	},
+	{
+		"displayName": "Green Bed",
+		"top": 49,
+		"left": 10
+	},
+	{
+		"displayName": "Green Carpet",
+		"top": 50,
+		"left": 25
+	},
+	{
+		"displayName": "Green Concrete",
+		"top": 46,
+		"left": 17
+	},
+	{
+		"displayName": "Green Concrete Powder",
+		"top": 46,
+		"left": 18
+	},
+	{
+		"displayName": "Green Glazed Terracotta",
+		"top": 46,
+		"left": 19
+	},
+	{
+		"displayName": "Green Shield",
+		"top": 41,
+		"left": 23
+	},
+	{
+		"displayName": "Green Shulker Box",
+		"top": 50,
+		"left": 7
+	},
+	{
+		"displayName": "Green Stained Glass",
+		"top": 23,
+		"left": 0
+	},
+	{
+		"displayName": "Green Stained Glass Pane",
+		"top": 23,
+		"left": 1
+	},
+	{
+		"displayName": "Green Terracotta",
+		"top": 22,
+		"left": 31
+	},
+	{
+		"displayName": "Green Wool",
+		"top": 47,
+		"left": 23
+	},
+	{
+		"displayName": "Guardian Spawn Egg",
+		"top": 35,
+		"left": 30
+	},
+	{
+		"displayName": "Gunpowder",
+		"top": 35,
+		"left": 6
+	},
+	{
+		"displayName": "Hay Bale",
+		"top": 27,
+		"left": 26
+	},
+	{
+		"displayName": "Head",
+		"top": 30,
+		"left": 5
+	},
+	{
+		"displayName": "Heart of the Sea",
+		"top": 54,
+		"left": 13
+	},
+	{
+		"displayName": "Heavy Weighted Pressure Plate",
+		"top": 29,
+		"left": 31
+	},
+	{
+		"displayName": "Hopper",
+		"top": 38,
+		"left": 31
+	},
+	{
+		"displayName": "Horn Coral",
+		"top": 53,
+		"left": 18
+	},
+	{
+		"displayName": "Horn Coral Block",
+		"top": 53,
+		"left": 13
+	},
+	{
+		"displayName": "Horse Spawn Egg",
+		"top": 35,
+		"left": 31
+	},
+	{
+		"displayName": "Husk Spawn Egg",
+		"top": 42,
+		"left": 28
+	},
+	{
+		"displayName": "Ice",
+		"top": 30,
+		"left": 23
+	},
+	{
+		"displayName": "Ink Sac",
+		"top": 21,
+		"left": 21
+	},
+	{
+		"displayName": "Inverted Daylight Detector",
+		"top": 39,
+		"left": 0
+	},
+	{
+		"displayName": "Iron Axe",
+		"top": 37,
+		"left": 29
+	},
+	{
+		"displayName": "Iron Bars",
+		"top": 27,
+		"left": 27
+	},
+	{
+		"displayName": "Iron Boots",
+		"top": 1,
+		"left": 3
+	},
+	{
+		"displayName": "Iron Chestplate",
+		"top": 1,
+		"left": 4
+	},
+	{
+		"displayName": "Iron Door",
+		"top": 29,
+		"left": 12
+	},
+	{
+		"displayName": "Iron Helmet",
+		"top": 1,
+		"left": 5
+	},
+	{
+		"displayName": "Iron Hoe",
+		"top": 37,
+		"left": 30
+	},
+	{
+		"displayName": "Iron Horse Armor",
+		"top": 1,
+		"left": 6
+	},
+	{
+		"displayName": "Iron Ingot",
+		"top": 35,
+		"left": 7
+	},
+	{
+		"displayName": "Iron Leggings",
+		"top": 1,
+		"left": 7
+	},
+	{
+		"displayName": "Iron Nugget",
+		"top": 44,
+		"left": 28
+	},
+	{
+		"displayName": "Iron Ore",
+		"top": 31,
+		"left": 25
+	},
+	{
+		"displayName": "Iron Pickaxe",
+		"top": 37,
+		"left": 31
+	},
+	{
+		"displayName": "Iron Shovel",
+		"top": 38,
+		"left": 0
+	},
+	{
+		"displayName": "Iron Sword",
+		"top": 40,
+		"left": 8
+	},
+	{
+		"displayName": "Iron Trapdoor",
+		"top": 29,
+		"left": 13
+	},
+	{
+		"displayName": "Item Frame",
+		"top": 21,
+		"left": 7
+	},
+	{
+		"displayName": "Jack o'Lantern",
+		"top": 27,
+		"left": 28
+	},
+	{
+		"displayName": "Jukebox",
+		"top": 39,
+		"left": 1
+	},
+	{
+		"displayName": "Jungle Boat",
+		"top": 42,
+		"left": 9
+	},
+	{
+		"displayName": "Jungle Button",
+		"top": 51,
+		"left": 21
+	},
+	{
+		"displayName": "Jungle Door",
+		"top": 29,
+		"left": 14
+	},
+	{
+		"displayName": "Jungle Fence",
+		"top": 27,
+		"left": 29
+	},
+	{
+		"displayName": "Jungle Fence Gate",
+		"top": 27,
+		"left": 30
+	},
+	{
+		"displayName": "Jungle Leaves",
+		"top": 32,
+		"left": 18
+	},
+	{
+		"displayName": "Jungle Log",
+		"top": 32,
+		"left": 20
+	},
+	{
+		"displayName": "Jungle Planks",
+		"top": 27,
+		"left": 31
+	},
+	{
+		"displayName": "Jungle Pressure Plate",
+		"top": 51,
+		"left": 26
+	},
+	{
+		"displayName": "Jungle Sapling",
+		"top": 32,
+		"left": 19
+	},
+	{
+		"displayName": "Jungle Sign",
+		"top": 74,
+		"left": 26
+	},
+	{
+		"displayName": "Jungle Slab",
+		"top": 28,
+		"left": 0
+	},
+	{
+		"displayName": "Jungle Stairs",
+		"top": 28,
+		"left": 1
+	},
+	{
+		"displayName": "Jungle Trapdoor",
+		"top": 51,
+		"left": 16
+	},
+	{
+		"displayName": "Jungle Wood",
+		"top": 51,
+		"left": 11
+	},
+	{
+		"displayName": "Kelp",
+		"top": 52,
+		"left": 18
+	},
+	{
+		"displayName": "Ladder",
+		"top": 28,
+		"left": 2
+	},
+	{
+		"displayName": "Lapis Lazuli",
+		"top": 21,
+		"left": 22
+	},
+	{
+		"displayName": "Lapis Lazuli Block",
+		"top": 28,
+		"left": 3
+	},
+	{
+		"displayName": "Lapis Lazuli Ore",
+		"top": 31,
+		"left": 26
+	},
+	{
+		"displayName": "Large Fern",
+		"top": 32,
+		"left": 21
+	},
+	{
+		"displayName": "Lava Bucket",
+		"top": 20,
+		"left": 28
+	},
+	{
+		"displayName": "Lead",
+		"top": 38,
+		"left": 1
+	},
+	{
+		"displayName": "Leather",
+		"top": 35,
+		"left": 8
+	},
+	{
+		"displayName": "Leather Boots",
+		"top": 1,
+		"left": 8
+	},
+	{
+		"displayName": "Leather Cap",
+		"top": 1,
+		"left": 9
+	},
+	{
+		"displayName": "Leather Horse Armor",
+		"top": 43,
+		"left": 5
+	},
+	{
+		"displayName": "Leather Pants",
+		"top": 1,
+		"left": 10
+	},
+	{
+		"displayName": "Leather Tunic",
+		"top": 1,
+		"left": 11
+	},
+	{
+		"displayName": "Lever",
+		"top": 29,
+		"left": 15
+	},
+	{
+		"displayName": "Light Blue Banner",
+		"top": 23,
+		"left": 3
+	},
+	{
+		"displayName": "Light Blue Bed",
+		"top": 49,
+		"left": 11
+	},
+	{
+		"displayName": "Light Blue Carpet",
+		"top": 50,
+		"left": 26
+	},
+	{
+		"displayName": "Light Blue Concrete",
+		"top": 46,
+		"left": 20
+	},
+	{
+		"displayName": "Light Blue Concrete Powder",
+		"top": 46,
+		"left": 21
+	},
+	{
+		"displayName": "Light Blue Dye",
+		"top": 21,
+		"left": 23
+	},
+	{
+		"displayName": "Light Blue Firework Star",
+		"top": 25,
+		"left": 11
+	},
+	{
+		"displayName": "Light Blue Glazed Terracotta",
+		"top": 46,
+		"left": 22
+	},
+	{
+		"displayName": "Light Blue Shield",
+		"top": 41,
+		"left": 24
+	},
+	{
+		"displayName": "Light Blue Shulker Box",
+		"top": 50,
+		"left": 8
+	},
+	{
+		"displayName": "Light Blue Stained Glass",
+		"top": 23,
+		"left": 6
+	},
+	{
+		"displayName": "Light Blue Stained Glass Pane",
+		"top": 23,
+		"left": 7
+	},
+	{
+		"displayName": "Light Blue Terracotta",
+		"top": 23,
+		"left": 5
+	},
+	{
+		"displayName": "Light Blue Wool",
+		"top": 47,
+		"left": 24
+	},
+	{
+		"displayName": "Light Gray Banner",
+		"top": 23,
+		"left": 9
+	},
+	{
+		"displayName": "Light Gray Bed",
+		"top": 49,
+		"left": 12
+	},
+	{
+		"displayName": "Light Gray Carpet",
+		"top": 50,
+		"left": 27
+	},
+	{
+		"displayName": "Light Gray Concrete",
+		"top": 46,
+		"left": 23
+	},
+	{
+		"displayName": "Light Gray Concrete Powder",
+		"top": 46,
+		"left": 24
+	},
+	{
+		"displayName": "Light Gray Dye",
+		"top": 21,
+		"left": 24
+	},
+	{
+		"displayName": "Light Gray Firework Star",
+		"top": 25,
+		"left": 12
+	},
+	{
+		"displayName": "Light Gray Glazed Terracotta",
+		"top": 46,
+		"left": 25
+	},
+	{
+		"displayName": "Light Gray Shield",
+		"top": 41,
+		"left": 25
+	},
+	{
+		"displayName": "Light Gray Shulker Box",
+		"top": 50,
+		"left": 9
+	},
+	{
+		"displayName": "Light Gray Stained Glass",
+		"top": 23,
+		"left": 12
+	},
+	{
+		"displayName": "Light Gray Stained Glass Pane",
+		"top": 23,
+		"left": 13
+	},
+	{
+		"displayName": "Light Gray Stained Glass Pane",
+		"top": 23,
+		"left": 14
+	},
+	{
+		"displayName": "Light Gray Terracotta",
+		"top": 23,
+		"left": 11
+	},
+	{
+		"displayName": "Light Gray Wool",
+		"top": 47,
+		"left": 25
+	},
+	{
+		"displayName": "Light Weighted Pressure Plate",
+		"top": 30,
+		"left": 0
+	},
+	{
+		"displayName": "Lilac",
+		"top": 32,
+		"left": 22
+	},
+	{
+		"displayName": "Lily of the Valley",
+		"top": 74,
+		"left": 21
+	},
+	{
+		"displayName": "Lily Pad",
+		"top": 32,
+		"left": 23
+	},
+	{
+		"displayName": "Lime Banner",
+		"top": 23,
+		"left": 15
+	},
+	{
+		"displayName": "Lime Bed",
+		"top": 49,
+		"left": 13
+	},
+	{
+		"displayName": "Lime Carpet",
+		"top": 50,
+		"left": 28
+	},
+	{
+		"displayName": "Lime Concrete",
+		"top": 46,
+		"left": 26
+	},
+	{
+		"displayName": "Lime Concrete Powder",
+		"top": 46,
+		"left": 27
+	},
+	{
+		"displayName": "Lime Dye",
+		"top": 21,
+		"left": 25
+	},
+	{
+		"displayName": "Lime Firework Star",
+		"top": 25,
+		"left": 13
+	},
+	{
+		"displayName": "Lime Glazed Terracotta",
+		"top": 46,
+		"left": 28
+	},
+	{
+		"displayName": "Lime Shield",
+		"top": 41,
+		"left": 26
+	},
+	{
+		"displayName": "Lime Shulker Box",
+		"top": 50,
+		"left": 10
+	},
+	{
+		"displayName": "Lime Stained Glass",
+		"top": 23,
+		"left": 18
+	},
+	{
+		"displayName": "Lime Stained Glass Pane",
+		"top": 23,
+		"left": 19
+	},
+	{
+		"displayName": "Lime Terracotta",
+		"top": 23,
+		"left": 17
+	},
+	{
+		"displayName": "Lime Wool",
+		"top": 47,
+		"left": 26
+	},
+	{
+		"displayName": "Lingering Potion of Decay",
+		"top": 43,
+		"left": 29
+	},
+	{
+		"displayName": "Lingering Potion of Fire Resistance",
+		"top": 34,
+		"left": 9
+	},
+	{
+		"displayName": "Lingering Potion of Harming",
+		"top": 41,
+		"left": 6
+	},
+	{
+		"displayName": "Lingering Potion of Healing",
+		"top": 41,
+		"left": 7
+	},
+	{
+		"displayName": "Lingering Potion of Invisibility",
+		"top": 41,
+		"left": 8
+	},
+	{
+		"displayName": "Lingering Potion of Leaping",
+		"top": 41,
+		"left": 9
+	},
+	{
+		"displayName": "Lingering Potion of Luck",
+		"top": 42,
+		"left": 18
+	},
+	{
+		"displayName": "Lingering Potion of Night Vision",
+		"top": 41,
+		"left": 10
+	},
+	{
+		"displayName": "Lingering Potion of Poison",
+		"top": 41,
+		"left": 11
+	},
+	{
+		"displayName": "Lingering Potion of Regeneration",
+		"top": 41,
+		"left": 12
+	},
+	{
+		"displayName": "Lingering Potion of Slow Falling",
+		"top": 54,
+		"left": 4
+	},
+	{
+		"displayName": "Lingering Potion of Slowness",
+		"top": 41,
+		"left": 13
+	},
+	{
+		"displayName": "Lingering Potion of Strength",
+		"top": 41,
+		"left": 14
+	},
+	{
+		"displayName": "Lingering Potion of Swiftness",
+		"top": 41,
+		"left": 15
+	},
+	{
+		"displayName": "Lingering Potion of the Turtle Master",
+		"top": 52,
+		"left": 14
+	},
+	{
+		"displayName": "Lingering Potion of Water Breathing",
+		"top": 41,
+		"left": 16
+	},
+	{
+		"displayName": "Lingering Potion of Weakness",
+		"top": 41,
+		"left": 17
+	},
+	{
+		"displayName": "Llama Spawn Egg",
+		"top": 44,
+		"left": 3
+	},
+	{
+		"displayName": "Magenta Banner",
+		"top": 23,
+		"left": 21
+	},
+	{
+		"displayName": "Magenta Bed",
+		"top": 49,
+		"left": 14
+	},
+	{
+		"displayName": "Magenta Carpet",
+		"top": 50,
+		"left": 29
+	},
+	{
+		"displayName": "Magenta Concrete",
+		"top": 46,
+		"left": 29
+	},
+	{
+		"displayName": "Magenta Concrete Powder",
+		"top": 46,
+		"left": 30
+	},
+	{
+		"displayName": "Magenta Dye",
+		"top": 21,
+		"left": 26
+	},
+	{
+		"displayName": "Magenta Firework Star",
+		"top": 25,
+		"left": 14
+	},
+	{
+		"displayName": "Magenta Glazed Terracotta",
+		"top": 48,
+		"left": 4
+	},
+	{
+		"displayName": "Magenta Shield",
+		"top": 41,
+		"left": 27
+	},
+	{
+		"displayName": "Magenta Shulker Box",
+		"top": 50,
+		"left": 11
+	},
+	{
+		"displayName": "Magenta Stained Glass",
+		"top": 23,
+		"left": 24
+	},
+	{
+		"displayName": "Magenta Stained Glass Pane",
+		"top": 23,
+		"left": 25
+	},
+	{
+		"displayName": "Magenta Terracotta",
+		"top": 23,
+		"left": 23
+	},
+	{
+		"displayName": "Magenta Wool",
+		"top": 47,
+		"left": 27
+	},
+	{
+		"displayName": "Magma Cream",
+		"top": 20,
+		"left": 21
+	},
+	{
+		"displayName": "Magma Cube Spawn Egg",
+		"top": 36,
+		"left": 0
+	},
+	{
+		"displayName": "Melon",
+		"top": 32,
+		"left": 24
+	},
+	{
+		"displayName": "Melon Seeds",
+		"top": 32,
+		"left": 25
+	},
+	{
+		"displayName": "Melon Slice",
+		"top": 26,
+		"left": 2
+	},
+	{
+		"displayName": "Milk Bucket",
+		"top": 20,
+		"left": 29
+	},
+	{
+		"displayName": "Minecart",
+		"top": 39,
+		"left": 11
+	},
+	{
+		"displayName": "Minecart with Chest",
+		"top": 39,
+		"left": 12
+	},
+	{
+		"displayName": "Minecart with Command Block",
+		"top": 39,
+		"left": 13
+	},
+	{
+		"displayName": "Minecart with Furnace",
+		"top": 39,
+		"left": 14
+	},
+	{
+		"displayName": "Minecart with Hopper",
+		"top": 39,
+		"left": 15
+	},
+	{
+		"displayName": "Minecart with TNT",
+		"top": 39,
+		"left": 16
+	},
+	{
+		"displayName": "Missing Texture",
+		"top": 40,
+		"left": 25
+	},
+	{
+		"displayName": "Monster Spawner",
+		"top": 30,
+		"left": 24
+	},
+	{
+		"displayName": "Mooshroom Spawn Egg",
+		"top": 36,
+		"left": 1
+	},
+	{
+		"displayName": "Mossy Cobblestone",
+		"top": 30,
+		"left": 25
+	},
+	{
+		"displayName": "Mossy Cobblestone Wall",
+		"top": 28,
+		"left": 4
+	},
+	{
+		"displayName": "Mossy Stone Bricks",
+		"top": 30,
+		"left": 26
+	},
+	{
+		"displayName": "Mule Spawn Egg",
+		"top": 42,
+		"left": 29
+	},
+	{
+		"displayName": "Mushroom Stem",
+		"top": 32,
+		"left": 26
+	},
+	{
+		"displayName": "Mushroom Stew",
+		"top": 26,
+		"left": 3
+	},
+	{
+		"displayName": "Music Disc 11",
+		"top": 20,
+		"left": 31
+	},
+	{
+		"displayName": "Music Disc 13",
+		"top": 21,
+		"left": 0
+	},
+	{
+		"displayName": "Music Disc Cat",
+		"top": 21,
+		"left": 3
+	},
+	{
+		"displayName": "Music Disc Chirp",
+		"top": 21,
+		"left": 4
+	},
+	{
+		"displayName": "Music Disc Far",
+		"top": 21,
+		"left": 5
+	},
+	{
+		"displayName": "Music Disc Mall",
+		"top": 21,
+		"left": 8
+	},
+	{
+		"displayName": "Music Disc Mellohi",
+		"top": 21,
+		"left": 9
+	},
+	{
+		"displayName": "Music Disc Stal",
+		"top": 21,
+		"left": 11
+	},
+	{
+		"displayName": "Music Disc Strad",
+		"top": 21,
+		"left": 12
+	},
+	{
+		"displayName": "Music Disc Wait",
+		"top": 21,
+		"left": 13
+	},
+	{
+		"displayName": "Music Disc Ward",
+		"top": 21,
+		"left": 14
+	},
+	{
+		"displayName": "Mycelium",
+		"top": 30,
+		"left": 27
+	},
+	{
+		"displayName": "Name Tag",
+		"top": 38,
+		"left": 3
+	},
+	{
+		"displayName": "Nautilus Shell",
+		"top": 54,
+		"left": 14
+	},
+	{
+		"displayName": "Nether Brick",
+		"top": 35,
+		"left": 9
+	},
+	{
+		"displayName": "Nether Brick Fence",
+		"top": 31,
+		"left": 11
+	},
+	{
+		"displayName": "Nether Brick Slab",
+		"top": 28,
+		"left": 5
+	},
+	{
+		"displayName": "Nether Brick Stairs",
+		"top": 31,
+		"left": 12
+	},
+	{
+		"displayName": "Nether Bricks",
+		"top": 31,
+		"left": 10
+	},
+	{
+		"displayName": "Nether Portal",
+		"top": 31,
+		"left": 18
+	},
+	{
+		"displayName": "Nether Quartz",
+		"top": 35,
+		"left": 10
+	},
+	{
+		"displayName": "Nether Quartz Ore",
+		"top": 31,
+		"left": 13
+	},
+	{
+		"displayName": "Nether Star",
+		"top": 35,
+		"left": 11
+	},
+	{
+		"displayName": "Nether Wart",
+		"top": 20,
+		"left": 22
+	},
+	{
+		"displayName": "Nether Wart Block",
+		"top": 42,
+		"left": 21
+	},
+	{
+		"displayName": "Netherrack",
+		"top": 31,
+		"left": 15
+	},
+	{
+		"displayName": "Note Block",
+		"top": 39,
+		"left": 3
+	},
+	{
+		"displayName": "Oak Boat",
+		"top": 42,
+		"left": 6
+	},
+	{
+		"displayName": "Oak Button",
+		"top": 30,
+		"left": 1
+	},
+	{
+		"displayName": "Oak Door",
+		"top": 29,
+		"left": 16
+	},
+	{
+		"displayName": "Oak Fence",
+		"top": 27,
+		"left": 22
+	},
+	{
+		"displayName": "Oak Fence Gate",
+		"top": 27,
+		"left": 23
+	},
+	{
+		"displayName": "Oak Leaves",
+		"top": 32,
+		"left": 27
+	},
+	{
+		"displayName": "Oak Log",
+		"top": 32,
+		"left": 29
+	},
+	{
+		"displayName": "Oak Planks",
+		"top": 28,
+		"left": 6
+	},
+	{
+		"displayName": "Oak Pressure Plate",
+		"top": 30,
+		"left": 2
+	},
+	{
+		"displayName": "Oak Sapling",
+		"top": 32,
+		"left": 28
+	},
+	{
+		"displayName": "Oak Sign",
+		"top": 74,
+		"left": 23
+	},
+	{
+		"displayName": "Oak Slab",
+		"top": 28,
+		"left": 7
+	},
+	{
+		"displayName": "Oak Stairs",
+		"top": 28,
+		"left": 8
+	},
+	{
+		"displayName": "Oak Trapdoor",
+		"top": 29,
+		"left": 29
+	},
+	{
+		"displayName": "Oak Wood",
+		"top": 51,
+		"left": 8
+	},
+	{
+		"displayName": "Observer",
+		"top": 44,
+		"left": 25
+	},
+	{
+		"displayName": "Obsidian",
+		"top": 30,
+		"left": 28
+	},
+	{
+		"displayName": "Ocean Explorer Map",
+		"top": 44,
+		"left": 23
+	},
+	{
+		"displayName": "Ocelot Spawn Egg",
+		"top": 36,
+		"left": 2
+	},
+	{
+		"displayName": "Orange Banner",
+		"top": 23,
+		"left": 27
+	},
+	{
+		"displayName": "Orange Bed",
+		"top": 49,
+		"left": 15
+	},
+	{
+		"displayName": "Orange Carpet",
+		"top": 50,
+		"left": 30
+	},
+	{
+		"displayName": "Orange Concrete",
+		"top": 47,
+		"left": 0
+	},
+	{
+		"displayName": "Orange Concrete Powder",
+		"top": 47,
+		"left": 1
+	},
+	{
+		"displayName": "Orange Dye",
+		"top": 21,
+		"left": 27
+	},
+	{
+		"displayName": "Orange Firework Star",
+		"top": 25,
+		"left": 15
+	},
+	{
+		"displayName": "Orange Glazed Terracotta",
+		"top": 48,
+		"left": 5
+	},
+	{
+		"displayName": "Orange Shield",
+		"top": 41,
+		"left": 28
+	},
+	{
+		"displayName": "Orange Shulker Box",
+		"top": 50,
+		"left": 12
+	},
+	{
+		"displayName": "Orange Stained Glass",
+		"top": 23,
+		"left": 30
+	},
+	{
+		"displayName": "Orange Stained Glass Pane",
+		"top": 23,
+		"left": 31
+	},
+	{
+		"displayName": "Orange Terracotta",
+		"top": 23,
+		"left": 29
+	},
+	{
+		"displayName": "Orange Tulip",
+		"top": 32,
+		"left": 30
+	},
+	{
+		"displayName": "Orange Wool",
+		"top": 47,
+		"left": 28
+	},
+	{
+		"displayName": "Oxeye Daisy",
+		"top": 32,
+		"left": 31
+	},
+	{
+		"displayName": "Packed Ice",
+		"top": 30,
+		"left": 29
+	},
+	{
+		"displayName": "Painting",
+		"top": 21,
+		"left": 10
+	},
+	{
+		"displayName": "Panda Spawn Egg",
+		"top": 74,
+		"left": 5
+	},
+	{
+		"displayName": "Paper",
+		"top": 35,
+		"left": 12
+	},
+	{
+		"displayName": "Parrot Spawn Egg",
+		"top": 48,
+		"left": 7
+	},
+	{
+		"displayName": "Peony",
+		"top": 33,
+		"left": 0
+	},
+	{
+		"displayName": "Phantom Membrane",
+		"top": 54,
+		"left": 1
+	},
+	{
+		"displayName": "Phantom Spawn Egg",
+		"top": 53,
+		"left": 31
+	},
+	{
+		"displayName": "Pig Spawn Egg",
+		"top": 36,
+		"left": 3
+	},
+	{
+		"displayName": "Pink Banner",
+		"top": 24,
+		"left": 1
+	},
+	{
+		"displayName": "Pink Bed",
+		"top": 49,
+		"left": 16
+	},
+	{
+		"displayName": "Pink Carpet",
+		"top": 50,
+		"left": 31
+	},
+	{
+		"displayName": "Pink Concrete",
+		"top": 47,
+		"left": 3
+	},
+	{
+		"displayName": "Pink Concrete Powder",
+		"top": 47,
+		"left": 4
+	},
+	{
+		"displayName": "Pink Dye",
+		"top": 21,
+		"left": 28
+	},
+	{
+		"displayName": "Pink Firework Star",
+		"top": 25,
+		"left": 16
+	},
+	{
+		"displayName": "Pink Glazed Terracotta",
+		"top": 47,
+		"left": 5
+	},
+	{
+		"displayName": "Pink Shield",
+		"top": 41,
+		"left": 29
+	},
+	{
+		"displayName": "Pink Shulker Box",
+		"top": 50,
+		"left": 13
+	},
+	{
+		"displayName": "Pink Stained Glass",
+		"top": 24,
+		"left": 4
+	},
+	{
+		"displayName": "Pink Stained Glass Pane",
+		"top": 24,
+		"left": 5
+	},
+	{
+		"displayName": "Pink Terracotta",
+		"top": 24,
+		"left": 3
+	},
+	{
+		"displayName": "Pink Tulip",
+		"top": 33,
+		"left": 1
+	},
+	{
+		"displayName": "Pink Wool",
+		"top": 47,
+		"left": 29
+	},
+	{
+		"displayName": "Piston",
+		"top": 29,
+		"left": 17
+	},
+	{
+		"displayName": "Placeholder Texture",
+		"top": 29,
+		"left": 18
+	},
+	{
+		"displayName": "Player Head",
+		"top": 44,
+		"left": 29
+	},
+	{
+		"displayName": "Podzol",
+		"top": 30,
+		"left": 30
+	},
+	{
+		"displayName": "Poisonous Potato",
+		"top": 20,
+		"left": 23
+	},
+	{
+		"displayName": "Polar Bear Spawn Egg",
+		"top": 42,
+		"left": 30
+	},
+	{
+		"displayName": "Polished Andesite",
+		"top": 28,
+		"left": 10
+	},
+	{
+		"displayName": "Polished Diorite",
+		"top": 28,
+		"left": 11
+	},
+	{
+		"displayName": "Polished Granite",
+		"top": 28,
+		"left": 12
+	},
+	{
+		"displayName": "Popped Chorus Fruit",
+		"top": 35,
+		"left": 13
+	},
+	{
+		"displayName": "Poppy",
+		"top": 33,
+		"left": 2
+	},
+	{
+		"displayName": "Potato",
+		"top": 20,
+		"left": 24
+	},
+	{
+		"displayName": "Potion of Decay",
+		"top": 43,
+		"left": 25
+	},
+	{
+		"displayName": "Potion of Fire Resistance",
+		"top": 33,
+		"left": 28
+	},
+	{
+		"displayName": "Potion of Harming",
+		"top": 33,
+		"left": 29
+	},
+	{
+		"displayName": "Potion of Healing",
+		"top": 33,
+		"left": 30
+	},
+	{
+		"displayName": "Potion of Invisibility",
+		"top": 33,
+		"left": 31
+	},
+	{
+		"displayName": "Potion of Leaping",
+		"top": 34,
+		"left": 0
+	},
+	{
+		"displayName": "Potion of Luck",
+		"top": 42,
+		"left": 15
+	},
+	{
+		"displayName": "Potion of Night Vision",
+		"top": 34,
+		"left": 1
+	},
+	{
+		"displayName": "Potion of Poison",
+		"top": 34,
+		"left": 2
+	},
+	{
+		"displayName": "Potion of Regeneration",
+		"top": 34,
+		"left": 3
+	},
+	{
+		"displayName": "Potion of Slow Falling",
+		"top": 54,
+		"left": 2
+	},
+	{
+		"displayName": "Potion of Slowness",
+		"top": 34,
+		"left": 4
+	},
+	{
+		"displayName": "Potion of Strength",
+		"top": 34,
+		"left": 5
+	},
+	{
+		"displayName": "Potion of Swiftness",
+		"top": 34,
+		"left": 6
+	},
+	{
+		"displayName": "Potion of the Turtle Master",
+		"top": 52,
+		"left": 12
+	},
+	{
+		"displayName": "Potion of Weakness",
+		"top": 34,
+		"left": 7
+	},
+	{
+		"displayName": "Powered Rail",
+		"top": 29,
+		"left": 19
+	},
+	{
+		"displayName": "Prismarine Brick Slab",
+		"top": 52,
+		"left": 1
+	},
+	{
+		"displayName": "Prismarine Brick Stairs",
+		"top": 51,
+		"left": 30
+	},
+	{
+		"displayName": "Prismarine Bricks",
+		"top": 31,
+		"left": 0
+	},
+	{
+		"displayName": "Prismarine Crystals",
+		"top": 35,
+		"left": 14
+	},
+	{
+		"displayName": "Prismarine Shard",
+		"top": 35,
+		"left": 15
+	},
+	{
+		"displayName": "Prismarine Slab",
+		"top": 52,
+		"left": 2
+	},
+	{
+		"displayName": "Prismarine Stairs",
+		"top": 51,
+		"left": 31
+	},
+	{
+		"displayName": "Pufferfish",
+		"top": 52,
+		"left": 27
+	},
+	{
+		"displayName": "Pufferfish Spawn Egg",
+		"top": 53,
+		"left": 1
+	},
+	{
+		"displayName": "Pumpkin",
+		"top": 52,
+		"left": 11
+	},
+	{
+		"displayName": "Pumpkin Pie",
+		"top": 26,
+		"left": 5
+	},
+	{
+		"displayName": "Pumpkin Seeds",
+		"top": 33,
+		"left": 4
+	},
+	{
+		"displayName": "Purple Banner",
+		"top": 24,
+		"left": 7
+	},
+	{
+		"displayName": "Purple Bed",
+		"top": 49,
+		"left": 17
+	},
+	{
+		"displayName": "Purple Carpet",
+		"top": 51,
+		"left": 0
+	},
+	{
+		"displayName": "Purple Concrete",
+		"top": 47,
+		"left": 6
+	},
+	{
+		"displayName": "Purple Concrete Powder",
+		"top": 47,
+		"left": 7
+	},
+	{
+		"displayName": "Purple Dye",
+		"top": 21,
+		"left": 29
+	},
+	{
+		"displayName": "Purple Firework Star",
+		"top": 25,
+		"left": 17
+	},
+	{
+		"displayName": "Purple Glazed Terracotta",
+		"top": 47,
+		"left": 8
+	},
+	{
+		"displayName": "Purple Shield",
+		"top": 41,
+		"left": 30
+	},
+	{
+		"displayName": "Purple Shulker Box",
+		"top": 44,
+		"left": 19
+	},
+	{
+		"displayName": "Purple Stained Glass",
+		"top": 24,
+		"left": 10
+	},
+	{
+		"displayName": "Purple Stained Glass Pane",
+		"top": 24,
+		"left": 11
+	},
+	{
+		"displayName": "Purple Terracotta",
+		"top": 24,
+		"left": 9
+	},
+	{
+		"displayName": "Purple Wool",
+		"top": 47,
+		"left": 30
+	},
+	{
+		"displayName": "Purpur Block",
+		"top": 28,
+		"left": 13
+	},
+	{
+		"displayName": "Purpur Pillar",
+		"top": 28,
+		"left": 14
+	},
+	{
+		"displayName": "Purpur Slab",
+		"top": 28,
+		"left": 15
+	},
+	{
+		"displayName": "Purpur Stairs",
+		"top": 28,
+		"left": 16
+	},
+	{
+		"displayName": "Quartz Pillar",
+		"top": 28,
+		"left": 9
+	},
+	{
+		"displayName": "Quartz Slab",
+		"top": 28,
+		"left": 17
+	},
+	{
+		"displayName": "Quartz Stairs",
+		"top": 28,
+		"left": 18
+	},
+	{
+		"displayName": "Rabbit Hide",
+		"top": 35,
+		"left": 16
+	},
+	{
+		"displayName": "Rabbit Spawn Egg",
+		"top": 36,
+		"left": 4
+	},
+	{
+		"displayName": "Rabbit Stew",
+		"top": 26,
+		"left": 6
+	},
+	{
+		"displayName": "Rabbit's Foot",
+		"top": 20,
+		"left": 25
+	},
+	{
+		"displayName": "Rail",
+		"top": 29,
+		"left": 20
+	},
+	{
+		"displayName": "Raw Beef",
+		"top": 26,
+		"left": 7
+	},
+	{
+		"displayName": "Raw Chicken",
+		"top": 26,
+		"left": 8
+	},
+	{
+		"displayName": "Raw Cod",
+		"top": 52,
+		"left": 28
+	},
+	{
+		"displayName": "Raw Fish",
+		"top": 26,
+		"left": 9
+	},
+	{
+		"displayName": "Raw Mutton",
+		"top": 26,
+		"left": 10
+	},
+	{
+		"displayName": "Raw Porkchop",
+		"top": 26,
+		"left": 11
+	},
+	{
+		"displayName": "Raw Rabbit",
+		"top": 26,
+		"left": 12
+	},
+	{
+		"displayName": "Raw Salmon",
+		"top": 52,
+		"left": 29
+	},
+	{
+		"displayName": "Red Banner",
+		"top": 24,
+		"left": 13
+	},
+	{
+		"displayName": "Red Bed",
+		"top": 49,
+		"left": 18
+	},
+	{
+		"displayName": "Red Carpet",
+		"top": 51,
+		"left": 1
+	},
+	{
+		"displayName": "Red Concrete",
+		"top": 47,
+		"left": 9
+	},
+	{
+		"displayName": "Red Concrete Powder",
+		"top": 47,
+		"left": 10
+	},
+	{
+		"displayName": "Red Dye",
+		"top": 21,
+		"left": 30
+	},
+	{
+		"displayName": "Red Firework Star",
+		"top": 25,
+		"left": 18
+	},
+	{
+		"displayName": "Red Glazed Terracotta",
+		"top": 47,
+		"left": 11
+	},
+	{
+		"displayName": "Red Mushroom",
+		"top": 33,
+		"left": 5
+	},
+	{
+		"displayName": "Red Mushroom Block",
+		"top": 33,
+		"left": 6
+	},
+	{
+		"displayName": "Red Nether Bricks",
+		"top": 42,
+		"left": 22
+	},
+	{
+		"displayName": "Red Sand",
+		"top": 31,
+		"left": 1
+	},
+	{
+		"displayName": "Red Sandstone",
+		"top": 31,
+		"left": 2
+	},
+	{
+		"displayName": "Red Sandstone Slab",
+		"top": 28,
+		"left": 19
+	},
+	{
+		"displayName": "Red Sandstone Stairs",
+		"top": 28,
+		"left": 20
+	},
+	{
+		"displayName": "Red Shield",
+		"top": 41,
+		"left": 31
+	},
+	{
+		"displayName": "Red Shulker Box",
+		"top": 50,
+		"left": 15
+	},
+	{
+		"displayName": "Red Stained Glass",
+		"top": 24,
+		"left": 16
+	},
+	{
+		"displayName": "Red Stained Glass Pane",
+		"top": 24,
+		"left": 17
+	},
+	{
+		"displayName": "Red Terracotta",
+		"top": 24,
+		"left": 15
+	},
+	{
+		"displayName": "Red Tulip",
+		"top": 33,
+		"left": 7
+	},
+	{
+		"displayName": "Red Wool",
+		"top": 47,
+		"left": 31
+	},
+	{
+		"displayName": "Redstone Comparator",
+		"top": 29,
+		"left": 21
+	},
+	{
+		"displayName": "Redstone Dust",
+		"top": 35,
+		"left": 17
+	},
+	{
+		"displayName": "Redstone Lamp",
+		"top": 29,
+		"left": 22
+	},
+	{
+		"displayName": "Redstone Ore",
+		"top": 31,
+		"left": 27
+	},
+	{
+		"displayName": "Redstone Repeater",
+		"top": 29,
+		"left": 23
+	},
+	{
+		"displayName": "Redstone Torch",
+		"top": 29,
+		"left": 24
+	},
+	{
+		"displayName": "Rose",
+		"top": 33,
+		"left": 8
+	},
+	{
+		"displayName": "Rose Bush",
+		"top": 33,
+		"left": 9
+	},
+	{
+		"displayName": "Rotten Flesh",
+		"top": 26,
+		"left": 14
+	},
+	{
+		"displayName": "Ruby",
+		"top": 41,
+		"left": 0
+	},
+	{
+		"displayName": "Saddle",
+		"top": 38,
+		"left": 4
+	},
+	{
+		"displayName": "Salmon Spawn Egg",
+		"top": 53,
+		"left": 2
+	},
+	{
+		"displayName": "Sand",
+		"top": 31,
+		"left": 3
+	},
+	{
+		"displayName": "Sandstone",
+		"top": 31,
+		"left": 4
+	},
+	{
+		"displayName": "Sandstone Slab",
+		"top": 28,
+		"left": 21
+	},
+	{
+		"displayName": "Sandstone Stairs",
+		"top": 28,
+		"left": 22
+	},
+	{
+		"displayName": "Scaffolding",
+		"top": 33,
+		"left": 11
+	},
+	{
+		"displayName": "Sea Pickle",
+		"top": 54,
+		"left": 7
+	},
+	{
+		"displayName": "Seeds",
+		"top": 33,
+		"left": 10
+	},
+	{
+		"displayName": "Shears",
+		"top": 38,
+		"left": 5
+	},
+	{
+		"displayName": "Sheep Spawn Egg",
+		"top": 36,
+		"left": 5
+	},
+	{
+		"displayName": "Shield",
+		"top": 30,
+		"left": 31
+	},
+	{
+		"displayName": "Shulker Shell",
+		"top": 44,
+		"left": 1
+	},
+	{
+		"displayName": "Shulker Spawn Egg",
+		"top": 36,
+		"left": 6
+	},
+	{
+		"displayName": "Silverfish Spawn Egg",
+		"top": 36,
+		"left": 7
+	},
+	{
+		"displayName": "Skeleton Horse Spawn Egg",
+		"top": 42,
+		"left": 31
+	},
+	{
+		"displayName": "Skeleton Skull",
+		"top": 30,
+		"left": 6
+	},
+	{
+		"displayName": "Skeleton Spawn Egg",
+		"top": 36,
+		"left": 8
+	},
+	{
+		"displayName": "Slime Block",
+		"top": 28,
+		"left": 23
+	},
+	{
+		"displayName": "Slime Spawn Egg",
+		"top": 36,
+		"left": 9
+	},
+	{
+		"displayName": "Slimeball",
+		"top": 35,
+		"left": 18
+	},
+	{
+		"displayName": "Smooth Red Sandstone",
+		"top": 28,
+		"left": 24
+	},
+	{
+		"displayName": "Smooth Sandstone",
+		"top": 28,
+		"left": 25
+	},
+	{
+		"displayName": "Smooth Stone",
+		"top": 28,
+		"left": 26
+	},
+	{
+		"displayName": "Smooth Stone Slab",
+		"top": 29,
+		"left": 5
+	},
+	{
+		"displayName": "Snow",
+		"top": 31,
+		"left": 6
+	},
+	{
+		"displayName": "Snow Block",
+		"top": 28,
+		"left": 29
+	},
+	{
+		"displayName": "Snowball",
+		"top": 40,
+		"left": 9
+	},
+	{
+		"displayName": "Soul Sand",
+		"top": 31,
+		"left": 16
+	},
+	{
+		"displayName": "Spectral Arrow",
+		"top": 40,
+		"left": 10
+	},
+	{
+		"displayName": "Spider Eye",
+		"top": 20,
+		"left": 26
+	},
+	{
+		"displayName": "Spider Spawn Egg",
+		"top": 36,
+		"left": 10
+	},
+	{
+		"displayName": "Splash Potion of Decay",
+		"top": 43,
+		"left": 27
+	},
+	{
+		"displayName": "Splash Potion of Fire Resistance",
+		"top": 34,
+		"left": 12
+	},
+	{
+		"displayName": "Splash Potion of Harming",
+		"top": 34,
+		"left": 13
+	},
+	{
+		"displayName": "Splash Potion of Healing",
+		"top": 34,
+		"left": 14
+	},
+	{
+		"displayName": "Splash Potion of Invisibility",
+		"top": 34,
+		"left": 15
+	},
+	{
+		"displayName": "Splash Potion of Leaping",
+		"top": 34,
+		"left": 16
+	},
+	{
+		"displayName": "Splash Potion of Luck",
+		"top": 42,
+		"left": 16
+	},
+	{
+		"displayName": "Splash Potion of Night Vision",
+		"top": 34,
+		"left": 17
+	},
+	{
+		"displayName": "Splash Potion of Poison",
+		"top": 34,
+		"left": 18
+	},
+	{
+		"displayName": "Splash Potion of Regeneration",
+		"top": 34,
+		"left": 19
+	},
+	{
+		"displayName": "Splash Potion of Slow Falling",
+		"top": 54,
+		"left": 3
+	},
+	{
+		"displayName": "Splash Potion of Slowness",
+		"top": 34,
+		"left": 20
+	},
+	{
+		"displayName": "Splash Potion of Strength",
+		"top": 34,
+		"left": 21
+	},
+	{
+		"displayName": "Splash Potion of Swiftness",
+		"top": 34,
+		"left": 22
+	},
+	{
+		"displayName": "Splash Potion of the Turtle Master",
+		"top": 52,
+		"left": 13
+	},
+	{
+		"displayName": "Splash Potion of Water Breathing",
+		"top": 34,
+		"left": 23
+	},
+	{
+		"displayName": "Splash Potion of Weakness",
+		"top": 34,
+		"left": 24
+	},
+	{
+		"displayName": "Sponge",
+		"top": 39,
+		"left": 5
+	},
+	{
+		"displayName": "Spruce Boat",
+		"top": 42,
+		"left": 7
+	},
+	{
+		"displayName": "Spruce Button",
+		"top": 51,
+		"left": 19
+	},
+	{
+		"displayName": "Spruce Door",
+		"top": 29,
+		"left": 25
+	},
+	{
+		"displayName": "Spruce Fence",
+		"top": 28,
+		"left": 30
+	},
+	{
+		"displayName": "Spruce Fence Gate",
+		"top": 28,
+		"left": 31
+	},
+	{
+		"displayName": "Spruce Leaves",
+		"top": 33,
+		"left": 12
+	},
+	{
+		"displayName": "Spruce Log",
+		"top": 33,
+		"left": 14
+	},
+	{
+		"displayName": "Spruce Planks",
+		"top": 29,
+		"left": 0
+	},
+	{
+		"displayName": "Spruce Pressure Plate",
+		"top": 51,
+		"left": 24
+	},
+	{
+		"displayName": "Spruce Sapling",
+		"top": 33,
+		"left": 13
+	},
+	{
+		"displayName": "Spruce Sign",
+		"top": 74,
+		"left": 25
+	},
+	{
+		"displayName": "Spruce Slab",
+		"top": 29,
+		"left": 1
+	},
+	{
+		"displayName": "Spruce Stairs",
+		"top": 29,
+		"left": 2
+	},
+	{
+		"displayName": "Spruce Trapdoor",
+		"top": 51,
+		"left": 14
+	},
+	{
+		"displayName": "Spruce Wood",
+		"top": 51,
+		"left": 9
+	},
+	{
+		"displayName": "Squid Spawn Egg",
+		"top": 36,
+		"left": 11
+	},
+	{
+		"displayName": "Steak",
+		"top": 26,
+		"left": 15
+	},
+	{
+		"displayName": "Stick",
+		"top": 35,
+		"left": 19
+	},
+	{
+		"displayName": "Sticky Piston",
+		"top": 29,
+		"left": 26
+	},
+	{
+		"displayName": "Stone",
+		"top": 31,
+		"left": 7
+	},
+	{
+		"displayName": "Stone Axe",
+		"top": 38,
+		"left": 6
+	},
+	{
+		"displayName": "Stone Brick Slab",
+		"top": 29,
+		"left": 4
+	},
+	{
+		"displayName": "Stone Brick Stairs",
+		"top": 29,
+		"left": 3
+	},
+	{
+		"displayName": "Stone Bricks",
+		"top": 31,
+		"left": 8
+	},
+	{
+		"displayName": "Stone Button",
+		"top": 29,
+		"left": 27
+	},
+	{
+		"displayName": "Stone Hoe",
+		"top": 38,
+		"left": 7
+	},
+	{
+		"displayName": "Stone Pickaxe",
+		"top": 38,
+		"left": 8
+	},
+	{
+		"displayName": "Stone Pressure Plate",
+		"top": 29,
+		"left": 28
+	},
+	{
+		"displayName": "Stone Shovel",
+		"top": 38,
+		"left": 9
+	},
+	{
+		"displayName": "Stone Slab Pre-Flip",
+		"top": 27,
+		"left": 19
+	},
+	{
+		"displayName": "Stone Sword",
+		"top": 40,
+		"left": 11
+	},
+	{
+		"displayName": "Stray Spawn Egg",
+		"top": 43,
+		"left": 0
+	},
+	{
+		"displayName": "String",
+		"top": 35,
+		"left": 20
+	},
+	{
+		"displayName": "Stripped Acacia Log",
+		"top": 52,
+		"left": 5
+	},
+	{
+		"displayName": "Stripped Acacia Wood",
+		"top": 65,
+		"left": 22
+	},
+	{
+		"displayName": "Stripped Birch Log",
+		"top": 52,
+		"left": 6
+	},
+	{
+		"displayName": "Stripped Birch Wood",
+		"top": 65,
+		"left": 20
+	},
+	{
+		"displayName": "Stripped Dark Oak Log",
+		"top": 52,
+		"left": 7
+	},
+	{
+		"displayName": "Stripped Dark Oak Wood",
+		"top": 65,
+		"left": 23
+	},
+	{
+		"displayName": "Stripped Jungle Log",
+		"top": 52,
+		"left": 8
+	},
+	{
+		"displayName": "Stripped Jungle Wood",
+		"top": 65,
+		"left": 21
+	},
+	{
+		"displayName": "Stripped Oak Log",
+		"top": 52,
+		"left": 9
+	},
+	{
+		"displayName": "Stripped Oak Wood",
+		"top": 65,
+		"left": 18
+	},
+	{
+		"displayName": "Stripped Spruce Log",
+		"top": 52,
+		"left": 10
+	},
+	{
+		"displayName": "Stripped Spruce Wood",
+		"top": 65,
+		"left": 19
+	},
+	{
+		"displayName": "Structure Block",
+		"top": 43,
+		"left": 3
+	},
+	{
+		"displayName": "Sugar",
+		"top": 26,
+		"left": 16
+	},
+	{
+		"displayName": "Sugar Cane",
+		"top": 33,
+		"left": 15
+	},
+	{
+		"displayName": "Sunflower",
+		"top": 33,
+		"left": 16
+	},
+	{
+		"displayName": "Tall Grass",
+		"top": 32,
+		"left": 15
+	},
+	{
+		"displayName": "Terracotta",
+		"top": 30,
+		"left": 22
+	},
+	{
+		"displayName": "TNT",
+		"top": 39,
+		"left": 6
+	},
+	{
+		"displayName": "Torch",
+		"top": 31,
+		"left": 20
+	},
+	{
+		"displayName": "Totem of Undying",
+		"top": 44,
+		"left": 6
+	},
+	{
+		"displayName": "Trident",
+		"top": 53,
+		"left": 19
+	},
+	{
+		"displayName": "Tripwire Hook",
+		"top": 29,
+		"left": 30
+	},
+	{
+		"displayName": "Tropical Fish",
+		"top": 52,
+		"left": 24
+	},
+	{
+		"displayName": "Tropical Fish Spawn Egg",
+		"top": 53,
+		"left": 25
+	},
+	{
+		"displayName": "Tube Coral",
+		"top": 53,
+		"left": 14
+	},
+	{
+		"displayName": "Tube Coral Block",
+		"top": 53,
+		"left": 9
+	},
+	{
+		"displayName": "Turtle Egg",
+		"top": 52,
+		"left": 3
+	},
+	{
+		"displayName": "Turtle Shell",
+		"top": 52,
+		"left": 16
+	},
+	{
+		"displayName": "Turtle Spawn Egg",
+		"top": 54,
+		"left": 0
+	},
+	{
+		"displayName": "Uncraftable Lingering Potion",
+		"top": 43,
+		"left": 30
+	},
+	{
+		"displayName": "Uncraftable Potion",
+		"top": 43,
+		"left": 26
+	},
+	{
+		"displayName": "Uncraftable Splash Potion",
+		"top": 43,
+		"left": 28
+	},
+	{
+		"displayName": "Uncraftable Tipped Arrow",
+		"top": 44,
+		"left": 0
+	},
+	{
+		"displayName": "Vex Spawn Egg",
+		"top": 44,
+		"left": 4
+	},
+	{
+		"displayName": "Villager Spawn Egg",
+		"top": 36,
+		"left": 12
+	},
+	{
+		"displayName": "Vindicator Spawn Egg",
+		"top": 44,
+		"left": 5
+	},
+	{
+		"displayName": "Water Bottle",
+		"top": 42,
+		"left": 2
+	},
+	{
+		"displayName": "Water Bucket",
+		"top": 20,
+		"left": 30
+	},
+	{
+		"displayName": "Wet Sponge",
+		"top": 39,
+		"left": 9
+	},
+	{
+		"displayName": "Wheat",
+		"top": 26,
+		"left": 17
+	},
+	{
+		"displayName": "White Banner",
+		"top": 24,
+		"left": 19
+	},
+	{
+		"displayName": "White Bed",
+		"top": 49,
+		"left": 19
+	},
+	{
+		"displayName": "White Carpet",
+		"top": 51,
+		"left": 2
+	},
+	{
+		"displayName": "White Concrete",
+		"top": 47,
+		"left": 12
+	},
+	{
+		"displayName": "White Concrete Powder",
+		"top": 47,
+		"left": 13
+	},
+	{
+		"displayName": "White Dye",
+		"top": 74,
+		"left": 9
+	},
+	{
+		"displayName": "White Firework Star",
+		"top": 25,
+		"left": 19
+	},
+	{
+		"displayName": "White Glazed Terracotta",
+		"top": 47,
+		"left": 14
+	},
+	{
+		"displayName": "White Glazed Terracotta",
+		"top": 48,
+		"left": 6
+	},
+	{
+		"displayName": "White Shield",
+		"top": 42,
+		"left": 0
+	},
+	{
+		"displayName": "White Shulker Box",
+		"top": 50,
+		"left": 16
+	},
+	{
+		"displayName": "White Stained Glass",
+		"top": 24,
+		"left": 22
+	},
+	{
+		"displayName": "White Stained Glass Pane",
+		"top": 24,
+		"left": 23
+	},
+	{
+		"displayName": "White Terracotta",
+		"top": 24,
+		"left": 21
+	},
+	{
+		"displayName": "White Tulip",
+		"top": 33,
+		"left": 18
+	},
+	{
+		"displayName": "White Wool",
+		"top": 48,
+		"left": 0
+	},
+	{
+		"displayName": "Witch Spawn Egg",
+		"top": 36,
+		"left": 13
+	},
+	{
+		"displayName": "Wither Rose",
+		"top": 74,
+		"left": 19
+	},
+	{
+		"displayName": "Wither Skeleton Skull",
+		"top": 30,
+		"left": 7
+	},
+	{
+		"displayName": "Wither Skeleton Spawn Egg",
+		"top": 43,
+		"left": 1
+	},
+	{
+		"displayName": "Wolf Spawn Egg",
+		"top": 36,
+		"left": 14
+	},
+	{
+		"displayName": "Wooden Axe",
+		"top": 38,
+		"left": 10
+	},
+	{
+		"displayName": "Wooden Hoe",
+		"top": 38,
+		"left": 11
+	},
+	{
+		"displayName": "Wooden Pickaxe",
+		"top": 38,
+		"left": 12
+	},
+	{
+		"displayName": "Wooden Shovel",
+		"top": 38,
+		"left": 13
+	},
+	{
+		"displayName": "Wooden Sword",
+		"top": 40,
+		"left": 12
+	},
+	{
+		"displayName": "Woodland Explorer Map",
+		"top": 44,
+		"left": 24
+	},
+	{
+		"displayName": "Written Book",
+		"top": 38,
+		"left": 14
+	},
+	{
+		"displayName": "Yellow Banner",
+		"top": 24,
+		"left": 25
+	},
+	{
+		"displayName": "Yellow Bed",
+		"top": 49,
+		"left": 20
+	},
+	{
+		"displayName": "Yellow Carpet",
+		"top": 51,
+		"left": 3
+	},
+	{
+		"displayName": "Yellow Concrete",
+		"top": 47,
+		"left": 15
+	},
+	{
+		"displayName": "Yellow Concrete Powder",
+		"top": 47,
+		"left": 16
+	},
+	{
+		"displayName": "Yellow Dye",
+		"top": 21,
+		"left": 19
+	},
+	{
+		"displayName": "Yellow Firework Star",
+		"top": 25,
+		"left": 20
+	},
+	{
+		"displayName": "Yellow Glazed Terracotta",
+		"top": 47,
+		"left": 17
+	},
+	{
+		"displayName": "Yellow Shield",
+		"top": 42,
+		"left": 1
+	},
+	{
+		"displayName": "Yellow Shulker Box",
+		"top": 50,
+		"left": 17
+	},
+	{
+		"displayName": "Yellow Stained Glass",
+		"top": 24,
+		"left": 28
+	},
+	{
+		"displayName": "Yellow Stained Glass Pane",
+		"top": 24,
+		"left": 29
+	},
+	{
+		"displayName": "Yellow Terracotta",
+		"top": 24,
+		"left": 27
+	},
+	{
+		"displayName": "Yellow Wool",
+		"top": 48,
+		"left": 1
+	},
+	{
+		"displayName": "Zombie Head",
+		"top": 30,
+		"left": 8
+	},
+	{
+		"displayName": "Zombie Horse Spawn Egg",
+		"top": 43,
+		"left": 2
+	},
+	{
+		"displayName": "Zombie Pigman Spawn Egg",
+		"top": 36,
+		"left": 16
+	},
+	{
+		"displayName": "Zombie Spawn Egg",
+		"top": 36,
+		"left": 15
+	},
+	{
+		"displayName": "Zombie Villager Spawn Egg",
+		"top": 42,
+		"left": 4
+	}
+]

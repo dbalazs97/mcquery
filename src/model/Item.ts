@@ -16,13 +16,13 @@ export class Item {
 
 	public static enumItems(): void {
 		this.list = MCData('1.13').itemsArray.map(value => {
-			const spriteIndex = bs(sprites, value.displayName, (e, n) => e.displayName.includes(n));
+			const spriteIndex = bs(sprites, value.displayName, (e, n: string) => e.displayName.includes(n));
 			if (spriteIndex > 0) {
 				return new Item({
 					...value,
 					sprite: {
-						x: parseInt(sprites[spriteIndex].left.toString(), 10),
-						y: parseInt(sprites[spriteIndex].top.toString(), 10),
+						x: sprites[spriteIndex].left,
+						y: sprites[spriteIndex].top,
 					},
 				});
 			} else {
