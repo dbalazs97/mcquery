@@ -16,7 +16,7 @@ export class Item {
 
 	public static enumItems(): void {
 		this.list = MCData('1.13').itemsArray.map(value => {
-			const spriteIndex = bs(sprites, value.displayName, (e, n) => e.displayName.localeCompare(n));
+			const spriteIndex = bs(sprites, value.displayName, (e, n) => e.displayName.includes(n));
 			if (spriteIndex > 0) {
 				return new Item({
 					...value,
