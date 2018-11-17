@@ -18,7 +18,13 @@ export class Item {
 		this.list = MCData('1.13').itemsArray.map(value => {
 			const spriteIndex = bs(sprites, value.displayName, (e, n) => e.displayName.localeCompare(n));
 			if (spriteIndex > 0) {
-				return new Item({...value, sprite: {x: sprites[spriteIndex].left, y: sprites[spriteIndex].top}});
+				return new Item({
+					...value,
+					sprite: {
+						x: parseInt(sprites[spriteIndex].left.toString(), 10),
+						y: parseInt(sprites[spriteIndex].top.toString(), 10),
+					},
+				});
 			} else {
 				return new Item({...value, sprite: {x: -1, y: -1}});
 			}
