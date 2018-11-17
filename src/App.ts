@@ -32,6 +32,17 @@ export default class App {
 
 		console.log();
 		this.app.get('/sprite/:tx/:ty', (req, res) => {
+			if (
+				typeof req.params.tx === 'undefined' ||
+				typeof req.params.ty === 'undefined' ||
+				req.params.tx > 31 ||
+				req.params.ty > 77 ||
+				req.params.tx < 0 ||
+				req.params.ty < 0
+			) {
+				return res.send({error: true});
+			}
+
 			const cropOptions = {
 				height: 32,
 				left: req.params.tx * 32,
@@ -41,7 +52,7 @@ export default class App {
 
 			pngCrop.cropToStream(fs.readFileSync(path.join(__dirname, '../static/sprite.png')), cropOptions, (e: any, s: Stream) => {
 				if (e) {
-					return res.send('Error');
+					return res.send({error: true});
 				}
 				s.pipe(res);
 			});
