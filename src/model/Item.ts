@@ -1,5 +1,5 @@
-import bs from 'binary-search';
 import MCData from 'minecraft-data';
+import stringSimilarity from 'string-similarity';
 import sprites from '../sprite.json';
 import ErrorObject from './ErrorObject';
 
@@ -16,13 +16,13 @@ export class Item {
 
 	public static enumItems(): void {
 		this.list = MCData('1.13').itemsArray.map(value => {
-			const spriteIndex = bs(sprites, value.displayName, (e, n: string) => e.displayName.localeCompare(n));
-			if (spriteIndex > 0) {
+			const spriteIndex = sprites.find(sprite => (stringSimilarity.compareTwoStrings(sprite.displayName, value.displayName) > 0.9));
+			if (spriteIndex !== undefined) {
 				return new Item({
 					...value,
 					sprite: {
-						x: sprites[spriteIndex].left,
-						y: sprites[spriteIndex].top,
+						x: spriteIndex.left,
+						y: spriteIndex.top,
 					},
 				});
 			} else {

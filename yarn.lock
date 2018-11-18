@@ -63,6 +63,11 @@
     "@types/express-serve-static-core" "*"
     "@types/mime" "*"
 
+"@types/string-similarity@^1.2.0":
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/@types/string-similarity/-/string-similarity-1.2.0.tgz#0598ffdac808067953e1da480fda85e8fde80560"
+  integrity sha512-zrUNNlpw29TES8RF5EbdjlyLQduy9rh0b+xgx3RuPl0Qb6KMcQ3CI+cNKejpU3TEbLEfq6l627WxDIXS+Ebj/Q==
+
 accepts@~1.3.5:
   version "1.3.5"
   resolved "https://registry.yarnpkg.com/accepts/-/accepts-1.3.5.tgz#eb777df6011723a3b14e8a72c0805c8e86746bd2"
@@ -173,11 +178,6 @@ balanced-match@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/balanced-match/-/balanced-match-1.0.0.tgz#89b4d199ab2bee49de164ea02b89ce462d71b767"
   integrity sha1-ibTRmasr7kneFk6gK4nORi1xt2c=
-
-binary-search@^1.3.4:
-  version "1.3.4"
-  resolved "https://registry.yarnpkg.com/binary-search/-/binary-search-1.3.4.tgz#d15f44ff9226ef309d85247fa0dbfbf659955f56"
-  integrity sha512-dPxU/vZLnH0tEVjVPgi015oSwqu6oLfCeHywuFRhBE0yM0mYocvleTl8qsdM1YFhRzTRhM1+VzS8XLDVrHPopg==
 
 body-parser@1.18.3, body-parser@^1.18.3:
   version "1.18.3"
@@ -1674,6 +1674,11 @@ streamifier@^0.1.1:
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/streamifier/-/streamifier-0.1.1.tgz#97e98d8fa4d105d62a2691d1dc07e820db8dfc4f"
   integrity sha1-l+mNj6TRBdYqJpHR3AfoINuN/E8=
+
+string-similarity@latest:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/string-similarity/-/string-similarity-2.0.0.tgz#c16d8fc7e7c8dce706742c87adc482dbdb7030bb"
+  integrity sha512-62FBZrVXV5cI23bQ9L49Y4d9u9yaH61JhAwLyUFUzQbHDjdihxdfCwIherg+vylR/s4ucCddK8iKSEO7kinffQ==
 
 string-width@^2.1.0, string-width@^2.1.1:
   version "2.1.1"
