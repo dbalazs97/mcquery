@@ -6,7 +6,7 @@
 	"scripts": {
 		"postinstall": "npm run tsc",
 		"tsc": "tsc",
-		"start": "tsc && nodemon ./dist/index.js",
+		"start": "node ./dist/index.js",
 		"deploy": "PORT=8001 forever start -a --uid mcquery -c \"yarn run start\" ."
 	},
 	"author": "Dóka Balázs",
